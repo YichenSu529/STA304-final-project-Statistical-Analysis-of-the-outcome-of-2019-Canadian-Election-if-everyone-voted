@@ -1,0 +1,1937 @@
+sex,age,if_married,likely_to_vote,edu_level,interest_politic,participate_volunteer,n
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,no,1
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,3
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,yes,2
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,4
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,no,1
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,3
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,1
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,1
+Female,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,1
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,no,1
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,8
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,no,1
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,5
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,8
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,no,1
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,1
+Female,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,no,11
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,49
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,24
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,no,5
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,29
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,yes,44
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,10
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,21
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,38
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,very interested,no,3
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,very interested,not answer,4
+Female,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,very interested,yes,6
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,9
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,yes,7
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not very interested,no,2
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not very interested,not answer,27
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not very interested,yes,11
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,no,3
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,21
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,9
+Female,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,2
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not at all interested,no,1
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,18
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,4
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not very interested,no,4
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,35
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not very interested,yes,10
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,1
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,19
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,yes,12
+Female,15 to 34 years,0,somewhat likely,Post-secondary dipolma,very interested,not answer,4
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,not at all interested,no,7
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,43
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,not at all interested,yes,16
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,not very interested,no,14
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,not very interested,not answer,77
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,not very interested,yes,74
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,somewhat interested,no,9
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,53
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,38
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,very interested,no,2
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,very interested,not answer,6
+Female,15 to 34 years,0,somewhat likely,equal or lower than highschool,very interested,yes,3
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,7
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,3
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,8
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,6
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,6
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,1
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,yes,2
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,22
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,3
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,no,1
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,20
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,yes,1
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,1
+Female,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,3
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,3
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,46
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,11
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not very interested,no,7
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,34
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not very interested,yes,18
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,23
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,11
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,very interested,not answer,3
+Female,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,very interested,yes,3
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,not at all interested,no,1
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,not at all interested,not answer,14
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,not at all interested,yes,6
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,not very interested,no,6
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,not very interested,not answer,43
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,not very interested,yes,33
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,somewhat interested,no,11
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,102
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,somewhat interested,yes,76
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,very interested,no,12
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,very interested,not answer,42
+Female,15 to 34 years,0,very likely,Bacholor's degree or higher,very interested,yes,35
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,not at all interested,no,6
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,not at all interested,not answer,24
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,not at all interested,yes,3
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,not very interested,no,11
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,not very interested,not answer,58
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,not very interested,yes,15
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,somewhat interested,no,16
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,somewhat interested,not answer,120
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,somewhat interested,yes,61
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,very interested,no,3
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,very interested,not answer,25
+Female,15 to 34 years,0,very likely,Post-secondary dipolma,very interested,yes,15
+Female,15 to 34 years,0,very likely,equal or lower than highschool,not at all interested,no,4
+Female,15 to 34 years,0,very likely,equal or lower than highschool,not at all interested,not answer,47
+Female,15 to 34 years,0,very likely,equal or lower than highschool,not at all interested,yes,18
+Female,15 to 34 years,0,very likely,equal or lower than highschool,not very interested,no,13
+Female,15 to 34 years,0,very likely,equal or lower than highschool,not very interested,not answer,69
+Female,15 to 34 years,0,very likely,equal or lower than highschool,not very interested,yes,76
+Female,15 to 34 years,0,very likely,equal or lower than highschool,somewhat interested,no,37
+Female,15 to 34 years,0,very likely,equal or lower than highschool,somewhat interested,not answer,170
+Female,15 to 34 years,0,very likely,equal or lower than highschool,somewhat interested,yes,159
+Female,15 to 34 years,0,very likely,equal or lower than highschool,very interested,no,9
+Female,15 to 34 years,0,very likely,equal or lower than highschool,very interested,not answer,49
+Female,15 to 34 years,0,very likely,equal or lower than highschool,very interested,yes,44
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not at all interested,no,2
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,6
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not at all interested,yes,4
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not very interested,not answer,5
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not very interested,yes,7
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,no,2
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,8
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,yes,4
+Female,15 to 34 years,0,very unlikely,Bacholor's degree or higher,very interested,no,1
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,not at all interested,no,3
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,18
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,not at all interested,yes,6
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,not very interested,no,1
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,not very interested,not answer,4
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,3
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,somewhat interested,yes,5
+Female,15 to 34 years,0,very unlikely,Post-secondary dipolma,very interested,not answer,1
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,not at all interested,no,6
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,not at all interested,not answer,52
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,not at all interested,yes,24
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,not very interested,no,7
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,not very interested,not answer,15
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,not very interested,yes,23
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,somewhat interested,no,6
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,11
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,somewhat interested,yes,23
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,very interested,no,1
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,very interested,not answer,1
+Female,15 to 34 years,0,very unlikely,equal or lower than highschool,very interested,yes,4
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,4
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,yes,3
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,6
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,2
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,no,1
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,7
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,3
+Female,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,2
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,no,1
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,3
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,5
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,5
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,1
+Female,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,1
+Female,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,7
+Female,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,no,1
+Female,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,5
+Female,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,yes,1
+Female,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,4
+Female,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,1
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,8
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,yes,3
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not very interested,no,6
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,17
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not very interested,yes,5
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,19
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,5
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,very interested,not answer,3
+Female,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,very interested,yes,1
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,11
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not at all interested,yes,5
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not very interested,no,1
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,21
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not very interested,yes,2
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,no,1
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,10
+Female,15 to 34 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,5
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,10
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,not very interested,no,1
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,not very interested,not answer,14
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,not very interested,yes,4
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,somewhat interested,no,1
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,11
+Female,15 to 34 years,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,5
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,no,1
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,4
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,no,1
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,8
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,1
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,8
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,3
+Female,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,yes,1
+Female,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,3
+Female,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,2
+Female,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,4
+Female,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,yes,2
+Female,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,5
+Female,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,no,1
+Female,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,5
+Female,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,6
+Female,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,4
+Female,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,2
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,not at all interested,no,4
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,not at all interested,not answer,17
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,not at all interested,yes,5
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,not very interested,no,8
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,not very interested,not answer,38
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,not very interested,yes,19
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,somewhat interested,no,12
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,83
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,somewhat interested,yes,55
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,very interested,no,7
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,very interested,not answer,24
+Female,15 to 34 years,1,very likely,Bacholor's degree or higher,very interested,yes,16
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,not at all interested,no,3
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,not at all interested,not answer,9
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,not at all interested,yes,2
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,not very interested,no,6
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,not very interested,not answer,24
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,not very interested,yes,11
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,somewhat interested,no,8
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,somewhat interested,not answer,49
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,somewhat interested,yes,31
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,very interested,not answer,4
+Female,15 to 34 years,1,very likely,Post-secondary dipolma,very interested,yes,2
+Female,15 to 34 years,1,very likely,equal or lower than highschool,not at all interested,no,1
+Female,15 to 34 years,1,very likely,equal or lower than highschool,not at all interested,not answer,9
+Female,15 to 34 years,1,very likely,equal or lower than highschool,not at all interested,yes,1
+Female,15 to 34 years,1,very likely,equal or lower than highschool,not very interested,no,3
+Female,15 to 34 years,1,very likely,equal or lower than highschool,not very interested,not answer,19
+Female,15 to 34 years,1,very likely,equal or lower than highschool,not very interested,yes,12
+Female,15 to 34 years,1,very likely,equal or lower than highschool,somewhat interested,no,4
+Female,15 to 34 years,1,very likely,equal or lower than highschool,somewhat interested,not answer,28
+Female,15 to 34 years,1,very likely,equal or lower than highschool,somewhat interested,yes,10
+Female,15 to 34 years,1,very likely,equal or lower than highschool,very interested,no,1
+Female,15 to 34 years,1,very likely,equal or lower than highschool,very interested,not answer,5
+Female,15 to 34 years,1,very likely,equal or lower than highschool,very interested,yes,4
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not at all interested,not answer,11
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,5
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not very interested,no,3
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not very interested,not answer,8
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not very interested,yes,2
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,7
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,3
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,very interested,not answer,2
+Female,15 to 34 years,1,very unlikely,Bacholor's degree or higher,very interested,yes,1
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,not at all interested,no,2
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,14
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,not at all interested,yes,3
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,not very interested,no,1
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,not very interested,not answer,5
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,not very interested,yes,2
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,4
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,somewhat interested,yes,2
+Female,15 to 34 years,1,very unlikely,Post-secondary dipolma,very interested,not answer,1
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,not at all interested,no,1
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,not at all interested,not answer,18
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,not at all interested,yes,4
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,not very interested,no,2
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,not very interested,not answer,5
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,not very interested,yes,1
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,somewhat interested,no,1
+Female,15 to 34 years,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,2
+Female,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,2
+Female,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,3
+Female,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,2
+Female,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,3
+Female,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,5
+Female,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,1
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,no,1
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,5
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,yes,1
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,no,2
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,10
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,5
+Female,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,3
+Female,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,no,1
+Female,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,6
+Female,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,1
+Female,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,no,2
+Female,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,8
+Female,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,9
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,6
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,yes,4
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not very interested,not answer,9
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not very interested,yes,8
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,no,2
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,24
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,3
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,very interested,no,1
+Female,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,2
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not at all interested,no,4
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,23
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,3
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not very interested,no,5
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,37
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not very interested,yes,11
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,2
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,31
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,yes,15
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,very interested,not answer,2
+Female,35 to 54 years,0,somewhat likely,Post-secondary dipolma,very interested,yes,1
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,14
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,not at all interested,yes,5
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,not very interested,no,2
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,not very interested,not answer,27
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,not very interested,yes,4
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,15
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,3
+Female,35 to 54 years,0,somewhat likely,equal or lower than highschool,very interested,not answer,3
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,no,1
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,7
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,9
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,6
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,6
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,2
+Female,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,17
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,2
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,no,3
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,7
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,yes,5
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,no,1
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,7
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,3
+Female,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,2
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,2
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,17
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,2
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,11
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not very interested,yes,2
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,3
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,1
+Female,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,very interested,not answer,1
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,not at all interested,no,1
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,not at all interested,not answer,15
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,not at all interested,yes,1
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,not very interested,no,11
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,not very interested,not answer,57
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,not very interested,yes,28
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,somewhat interested,no,26
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,172
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,somewhat interested,yes,82
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,very interested,no,19
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,very interested,not answer,63
+Female,35 to 54 years,0,very likely,Bacholor's degree or higher,very interested,yes,53
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,not at all interested,no,1
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,not at all interested,not answer,36
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,not at all interested,yes,11
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,not very interested,no,12
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,not very interested,not answer,83
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,not very interested,yes,27
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,somewhat interested,no,27
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,somewhat interested,not answer,167
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,somewhat interested,yes,87
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,very interested,no,6
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,very interested,not answer,37
+Female,35 to 54 years,0,very likely,Post-secondary dipolma,very interested,yes,24
+Female,35 to 54 years,0,very likely,equal or lower than highschool,not at all interested,no,3
+Female,35 to 54 years,0,very likely,equal or lower than highschool,not at all interested,not answer,32
+Female,35 to 54 years,0,very likely,equal or lower than highschool,not at all interested,yes,8
+Female,35 to 54 years,0,very likely,equal or lower than highschool,not very interested,no,5
+Female,35 to 54 years,0,very likely,equal or lower than highschool,not very interested,not answer,59
+Female,35 to 54 years,0,very likely,equal or lower than highschool,not very interested,yes,8
+Female,35 to 54 years,0,very likely,equal or lower than highschool,somewhat interested,no,13
+Female,35 to 54 years,0,very likely,equal or lower than highschool,somewhat interested,not answer,124
+Female,35 to 54 years,0,very likely,equal or lower than highschool,somewhat interested,yes,38
+Female,35 to 54 years,0,very likely,equal or lower than highschool,very interested,no,4
+Female,35 to 54 years,0,very likely,equal or lower than highschool,very interested,not answer,22
+Female,35 to 54 years,0,very likely,equal or lower than highschool,very interested,yes,11
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not at all interested,no,2
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,7
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not at all interested,yes,3
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not very interested,not answer,3
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not very interested,yes,1
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,no,2
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,5
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,yes,3
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,very interested,no,1
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,35 to 54 years,0,very unlikely,Bacholor's degree or higher,very interested,yes,1
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,not at all interested,no,5
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,21
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,not at all interested,yes,7
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,not very interested,no,1
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,not very interested,not answer,7
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,not very interested,yes,4
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,somewhat interested,no,3
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,10
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,somewhat interested,yes,6
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,very interested,not answer,4
+Female,35 to 54 years,0,very unlikely,Post-secondary dipolma,very interested,yes,2
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,not at all interested,no,3
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,not at all interested,not answer,33
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,not at all interested,yes,4
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,not very interested,not answer,5
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,somewhat interested,no,1
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,3
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,somewhat interested,yes,2
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,very interested,not answer,3
+Female,35 to 54 years,0,very unlikely,equal or lower than highschool,very interested,yes,1
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,no,2
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,10
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,yes,6
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,10
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,5
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,no,1
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,13
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,4
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,3
+Female,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,3
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,17
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,yes,4
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,no,1
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,8
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,9
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,7
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,no,1
+Female,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,no,2
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,16
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,3
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,no,2
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,6
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,yes,2
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,1
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,6
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,2
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,1
+Female,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,very interested,yes,1
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,15
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,yes,9
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,29
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not very interested,yes,20
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,no,4
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,29
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,20
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,very interested,not answer,2
+Female,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,very interested,yes,2
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not at all interested,no,1
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,19
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not at all interested,yes,8
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not very interested,no,8
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,37
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not very interested,yes,14
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,no,4
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,33
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,17
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,very interested,not answer,1
+Female,35 to 54 years,1,somewhat likely,Post-secondary dipolma,very interested,yes,2
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,not at all interested,no,1
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,20
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,not at all interested,yes,2
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,not very interested,no,3
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,not very interested,not answer,27
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,not very interested,yes,9
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,somewhat interested,no,3
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,24
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,4
+Female,35 to 54 years,1,somewhat likely,equal or lower than highschool,very interested,not answer,2
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,no,3
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,10
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,2
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,13
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,6
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,12
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,5
+Female,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,yes,2
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,16
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,5
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,11
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,yes,3
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,5
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,6
+Female,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,very interested,yes,1
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,no,2
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,13
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,yes,3
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not very interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,17
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,5
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,no,1
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,5
+Female,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,very interested,yes,1
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,not at all interested,no,4
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,not at all interested,not answer,35
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,not at all interested,yes,12
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,not very interested,no,15
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,not very interested,not answer,107
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,not very interested,yes,73
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,somewhat interested,no,48
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,192
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,somewhat interested,yes,178
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,very interested,no,10
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,very interested,not answer,83
+Female,35 to 54 years,1,very likely,Bacholor's degree or higher,very interested,yes,85
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,not at all interested,no,8
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,not at all interested,not answer,30
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,not at all interested,yes,23
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,not very interested,no,18
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,not very interested,not answer,93
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,not very interested,yes,51
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,somewhat interested,no,40
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,somewhat interested,not answer,185
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,somewhat interested,yes,154
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,very interested,no,12
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,very interested,not answer,51
+Female,35 to 54 years,1,very likely,Post-secondary dipolma,very interested,yes,47
+Female,35 to 54 years,1,very likely,equal or lower than highschool,not at all interested,no,6
+Female,35 to 54 years,1,very likely,equal or lower than highschool,not at all interested,not answer,34
+Female,35 to 54 years,1,very likely,equal or lower than highschool,not at all interested,yes,9
+Female,35 to 54 years,1,very likely,equal or lower than highschool,not very interested,no,10
+Female,35 to 54 years,1,very likely,equal or lower than highschool,not very interested,not answer,71
+Female,35 to 54 years,1,very likely,equal or lower than highschool,not very interested,yes,25
+Female,35 to 54 years,1,very likely,equal or lower than highschool,somewhat interested,no,17
+Female,35 to 54 years,1,very likely,equal or lower than highschool,somewhat interested,not answer,111
+Female,35 to 54 years,1,very likely,equal or lower than highschool,somewhat interested,yes,63
+Female,35 to 54 years,1,very likely,equal or lower than highschool,very interested,no,4
+Female,35 to 54 years,1,very likely,equal or lower than highschool,very interested,not answer,29
+Female,35 to 54 years,1,very likely,equal or lower than highschool,very interested,yes,15
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not at all interested,no,2
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not at all interested,not answer,24
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,5
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not very interested,not answer,13
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not very interested,yes,8
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,17
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,8
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,very interested,no,2
+Female,35 to 54 years,1,very unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,not at all interested,no,2
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,25
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,not at all interested,yes,6
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,not very interested,not answer,8
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,not very interested,yes,2
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,somewhat interested,no,3
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,9
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,somewhat interested,yes,5
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,very interested,not answer,3
+Female,35 to 54 years,1,very unlikely,Post-secondary dipolma,very interested,yes,1
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,not at all interested,no,7
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,not at all interested,not answer,22
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,not at all interested,yes,5
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,not very interested,not answer,11
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,not very interested,yes,1
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,2
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,somewhat interested,yes,3
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,very interested,not answer,1
+Female,35 to 54 years,1,very unlikely,equal or lower than highschool,very interested,yes,1
+Female,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,2
+Female,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,1
+Female,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,2
+Female,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,6
+Female,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,2
+Female,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,2
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,no,1
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,6
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,7
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,no,2
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,5
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,3
+Female,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,2
+Female,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,24
+Female,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,12
+Female,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,2
+Female,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,10
+Female,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,2
+Female,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,very interested,not answer,1
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,6
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,yes,1
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not very interested,not answer,8
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not very interested,yes,1
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,6
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,1
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,1
+Female,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,very interested,yes,2
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,10
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,3
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not very interested,no,1
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,20
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not very interested,yes,2
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,2
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,18
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,yes,9
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,very interested,not answer,6
+Female,55 to 74 years,0,somewhat likely,Post-secondary dipolma,very interested,yes,1
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,not at all interested,no,2
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,26
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,not at all interested,yes,4
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,not very interested,no,2
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,not very interested,not answer,43
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,not very interested,yes,6
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,somewhat interested,no,2
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,51
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,7
+Female,55 to 74 years,0,somewhat likely,equal or lower than highschool,very interested,not answer,3
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,6
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,2
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,3
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,3
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,9
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,2
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,3
+Female,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,2
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,2
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,18
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,17
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not very interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,4
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,1
+Female,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,very interested,not answer,1
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,not at all interested,no,3
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,not at all interested,not answer,12
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,not at all interested,yes,3
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,not very interested,no,6
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,not very interested,not answer,16
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,not very interested,yes,15
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,somewhat interested,no,22
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,98
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,somewhat interested,yes,69
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,very interested,no,16
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,very interested,not answer,88
+Female,55 to 74 years,0,very likely,Bacholor's degree or higher,very interested,yes,89
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,not at all interested,no,6
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,not at all interested,not answer,24
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,not at all interested,yes,10
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,not very interested,no,14
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,not very interested,not answer,59
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,not very interested,yes,26
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,somewhat interested,no,37
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,somewhat interested,not answer,198
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,somewhat interested,yes,104
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,very interested,no,20
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,very interested,not answer,90
+Female,55 to 74 years,0,very likely,Post-secondary dipolma,very interested,yes,51
+Female,55 to 74 years,0,very likely,equal or lower than highschool,not at all interested,no,2
+Female,55 to 74 years,0,very likely,equal or lower than highschool,not at all interested,not answer,69
+Female,55 to 74 years,0,very likely,equal or lower than highschool,not at all interested,yes,11
+Female,55 to 74 years,0,very likely,equal or lower than highschool,not very interested,no,12
+Female,55 to 74 years,0,very likely,equal or lower than highschool,not very interested,not answer,130
+Female,55 to 74 years,0,very likely,equal or lower than highschool,not very interested,yes,33
+Female,55 to 74 years,0,very likely,equal or lower than highschool,somewhat interested,no,30
+Female,55 to 74 years,0,very likely,equal or lower than highschool,somewhat interested,not answer,249
+Female,55 to 74 years,0,very likely,equal or lower than highschool,somewhat interested,yes,73
+Female,55 to 74 years,0,very likely,equal or lower than highschool,very interested,no,12
+Female,55 to 74 years,0,very likely,equal or lower than highschool,very interested,not answer,105
+Female,55 to 74 years,0,very likely,equal or lower than highschool,very interested,yes,32
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,6
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not very interested,not answer,5
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not very interested,yes,2
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,1
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,yes,2
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,very interested,no,1
+Female,55 to 74 years,0,very unlikely,Bacholor's degree or higher,very interested,yes,2
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,9
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,not at all interested,yes,4
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,not very interested,no,1
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,not very interested,not answer,7
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,not very interested,yes,1
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,6
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,very interested,not answer,3
+Female,55 to 74 years,0,very unlikely,Post-secondary dipolma,very interested,yes,1
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,not at all interested,no,3
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,not at all interested,not answer,30
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,not at all interested,yes,7
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,not very interested,not answer,6
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,not very interested,yes,1
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,somewhat interested,no,1
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,5
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,somewhat interested,yes,4
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,very interested,not answer,1
+Female,55 to 74 years,0,very unlikely,equal or lower than highschool,very interested,yes,1
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,no,1
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,1
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,no,1
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,6
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,1
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,1
+Female,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,2
+Female,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,3
+Female,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,5
+Female,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,2
+Female,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,5
+Female,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,2
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,13
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,4
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,no,2
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,10
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,1
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,7
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,3
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,2
+Female,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,very interested,yes,1
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,no,2
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,4
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,yes,1
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not very interested,no,3
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,8
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not very interested,yes,2
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,no,5
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,5
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,4
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,very interested,not answer,4
+Female,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,very interested,yes,1
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,9
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not at all interested,yes,1
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not very interested,no,2
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,12
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not very interested,yes,5
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,no,1
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,16
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,1
+Female,55 to 74 years,1,somewhat likely,Post-secondary dipolma,very interested,not answer,2
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,not at all interested,no,3
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,17
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,not at all interested,yes,3
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,not very interested,no,3
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,not very interested,not answer,27
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,not very interested,yes,7
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,somewhat interested,no,4
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,24
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,6
+Female,55 to 74 years,1,somewhat likely,equal or lower than highschool,very interested,not answer,3
+Female,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,2
+Female,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,1
+Female,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,2
+Female,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,1
+Female,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,yes,1
+Female,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,5
+Female,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,4
+Female,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,yes,2
+Female,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,4
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,no,1
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,15
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,yes,1
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,7
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,1
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,no,1
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,7
+Female,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,very interested,not answer,3
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,not at all interested,not answer,13
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,not at all interested,yes,8
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,not very interested,no,9
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,not very interested,not answer,31
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,not very interested,yes,20
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,somewhat interested,no,24
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,104
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,somewhat interested,yes,97
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,very interested,no,22
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,very interested,not answer,76
+Female,55 to 74 years,1,very likely,Bacholor's degree or higher,very interested,yes,76
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,not at all interested,no,4
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,not at all interested,not answer,24
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,not at all interested,yes,12
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,not very interested,no,21
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,not very interested,not answer,70
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,not very interested,yes,32
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,somewhat interested,no,49
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,somewhat interested,not answer,258
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,somewhat interested,yes,147
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,very interested,no,13
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,very interested,not answer,104
+Female,55 to 74 years,1,very likely,Post-secondary dipolma,very interested,yes,69
+Female,55 to 74 years,1,very likely,equal or lower than highschool,not at all interested,no,5
+Female,55 to 74 years,1,very likely,equal or lower than highschool,not at all interested,not answer,54
+Female,55 to 74 years,1,very likely,equal or lower than highschool,not at all interested,yes,6
+Female,55 to 74 years,1,very likely,equal or lower than highschool,not very interested,no,28
+Female,55 to 74 years,1,very likely,equal or lower than highschool,not very interested,not answer,130
+Female,55 to 74 years,1,very likely,equal or lower than highschool,not very interested,yes,24
+Female,55 to 74 years,1,very likely,equal or lower than highschool,somewhat interested,no,59
+Female,55 to 74 years,1,very likely,equal or lower than highschool,somewhat interested,not answer,310
+Female,55 to 74 years,1,very likely,equal or lower than highschool,somewhat interested,yes,120
+Female,55 to 74 years,1,very likely,equal or lower than highschool,very interested,no,12
+Female,55 to 74 years,1,very likely,equal or lower than highschool,very interested,not answer,87
+Female,55 to 74 years,1,very likely,equal or lower than highschool,very interested,yes,40
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not at all interested,not answer,2
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,2
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not very interested,no,1
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not very interested,not answer,2
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not very interested,yes,1
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,2
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,3
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,very interested,no,1
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,55 to 74 years,1,very unlikely,Bacholor's degree or higher,very interested,yes,1
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,5
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,not at all interested,yes,2
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,not very interested,not answer,8
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,not very interested,yes,3
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,3
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,somewhat interested,yes,4
+Female,55 to 74 years,1,very unlikely,Post-secondary dipolma,very interested,yes,1
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,not at all interested,no,3
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,not at all interested,not answer,22
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,not at all interested,yes,7
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,not very interested,no,1
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,not very interested,not answer,5
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,not very interested,yes,4
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,somewhat interested,no,2
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,8
+Female,55 to 74 years,1,very unlikely,equal or lower than highschool,somewhat interested,yes,4
+Female,75 years and over,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,1
+Female,75 years and over,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,1
+Female,75 years and over,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,1
+Female,75 years and over,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,1
+Female,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,3
+Female,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,2
+Female,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,2
+Female,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,2
+Female,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not at all interested,no,2
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,13
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not very interested,no,3
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,10
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not very interested,yes,1
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,3
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,17
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,1
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,very interested,no,1
+Female,75 years and over,0,Don't know or not eligible,equal or lower than highschool,very interested,not answer,5
+Female,75 years and over,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,1
+Female,75 years and over,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,2
+Female,75 years and over,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,1
+Female,75 years and over,0,somewhat likely,Bacholor's degree or higher,very interested,yes,2
+Female,75 years and over,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,3
+Female,75 years and over,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,1
+Female,75 years and over,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,1
+Female,75 years and over,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,1
+Female,75 years and over,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,5
+Female,75 years and over,0,somewhat likely,Post-secondary dipolma,very interested,not answer,2
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,9
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,not at all interested,yes,1
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,not very interested,no,1
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,not very interested,not answer,15
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,not very interested,yes,1
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,somewhat interested,no,1
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,21
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,3
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,very interested,no,1
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,very interested,not answer,2
+Female,75 years and over,0,somewhat likely,equal or lower than highschool,very interested,yes,1
+Female,75 years and over,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,1
+Female,75 years and over,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Female,75 years and over,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,1
+Female,75 years and over,0,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Female,75 years and over,0,somewhat unlikely,Post-secondary dipolma,not very interested,no,1
+Female,75 years and over,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,2
+Female,75 years and over,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,2
+Female,75 years and over,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,10
+Female,75 years and over,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,8
+Female,75 years and over,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,5
+Female,75 years and over,0,somewhat unlikely,equal or lower than highschool,very interested,not answer,1
+Female,75 years and over,0,very likely,Bacholor's degree or higher,not at all interested,not answer,2
+Female,75 years and over,0,very likely,Bacholor's degree or higher,not at all interested,yes,1
+Female,75 years and over,0,very likely,Bacholor's degree or higher,not very interested,no,1
+Female,75 years and over,0,very likely,Bacholor's degree or higher,not very interested,not answer,5
+Female,75 years and over,0,very likely,Bacholor's degree or higher,somewhat interested,no,11
+Female,75 years and over,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,27
+Female,75 years and over,0,very likely,Bacholor's degree or higher,somewhat interested,yes,22
+Female,75 years and over,0,very likely,Bacholor's degree or higher,very interested,no,9
+Female,75 years and over,0,very likely,Bacholor's degree or higher,very interested,not answer,34
+Female,75 years and over,0,very likely,Bacholor's degree or higher,very interested,yes,16
+Female,75 years and over,0,very likely,Post-secondary dipolma,not at all interested,not answer,8
+Female,75 years and over,0,very likely,Post-secondary dipolma,not at all interested,yes,1
+Female,75 years and over,0,very likely,Post-secondary dipolma,not very interested,no,5
+Female,75 years and over,0,very likely,Post-secondary dipolma,not very interested,not answer,17
+Female,75 years and over,0,very likely,Post-secondary dipolma,not very interested,yes,5
+Female,75 years and over,0,very likely,Post-secondary dipolma,somewhat interested,no,15
+Female,75 years and over,0,very likely,Post-secondary dipolma,somewhat interested,not answer,64
+Female,75 years and over,0,very likely,Post-secondary dipolma,somewhat interested,yes,22
+Female,75 years and over,0,very likely,Post-secondary dipolma,very interested,no,10
+Female,75 years and over,0,very likely,Post-secondary dipolma,very interested,not answer,45
+Female,75 years and over,0,very likely,Post-secondary dipolma,very interested,yes,16
+Female,75 years and over,0,very likely,equal or lower than highschool,not at all interested,no,4
+Female,75 years and over,0,very likely,equal or lower than highschool,not at all interested,not answer,34
+Female,75 years and over,0,very likely,equal or lower than highschool,not at all interested,yes,4
+Female,75 years and over,0,very likely,equal or lower than highschool,not very interested,no,7
+Female,75 years and over,0,very likely,equal or lower than highschool,not very interested,not answer,84
+Female,75 years and over,0,very likely,equal or lower than highschool,not very interested,yes,18
+Female,75 years and over,0,very likely,equal or lower than highschool,somewhat interested,no,23
+Female,75 years and over,0,very likely,equal or lower than highschool,somewhat interested,not answer,174
+Female,75 years and over,0,very likely,equal or lower than highschool,somewhat interested,yes,41
+Female,75 years and over,0,very likely,equal or lower than highschool,very interested,no,7
+Female,75 years and over,0,very likely,equal or lower than highschool,very interested,not answer,85
+Female,75 years and over,0,very likely,equal or lower than highschool,very interested,yes,18
+Female,75 years and over,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,2
+Female,75 years and over,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,3
+Female,75 years and over,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,1
+Female,75 years and over,0,very unlikely,Post-secondary dipolma,not very interested,not answer,1
+Female,75 years and over,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,2
+Female,75 years and over,0,very unlikely,Post-secondary dipolma,somewhat interested,yes,2
+Female,75 years and over,0,very unlikely,Post-secondary dipolma,very interested,not answer,1
+Female,75 years and over,0,very unlikely,equal or lower than highschool,not at all interested,not answer,16
+Female,75 years and over,0,very unlikely,equal or lower than highschool,not at all interested,yes,6
+Female,75 years and over,0,very unlikely,equal or lower than highschool,not very interested,not answer,2
+Female,75 years and over,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,7
+Female,75 years and over,0,very unlikely,equal or lower than highschool,somewhat interested,yes,2
+Female,75 years and over,0,very unlikely,equal or lower than highschool,very interested,not answer,3
+Female,75 years and over,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,1
+Female,75 years and over,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,3
+Female,75 years and over,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,1
+Female,75 years and over,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,1
+Female,75 years and over,1,somewhat likely,Post-secondary dipolma,not very interested,yes,1
+Female,75 years and over,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,1
+Female,75 years and over,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,3
+Female,75 years and over,1,somewhat likely,Post-secondary dipolma,very interested,not answer,2
+Female,75 years and over,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,2
+Female,75 years and over,1,somewhat likely,equal or lower than highschool,not very interested,not answer,3
+Female,75 years and over,1,somewhat likely,equal or lower than highschool,not very interested,yes,1
+Female,75 years and over,1,somewhat likely,equal or lower than highschool,somewhat interested,no,1
+Female,75 years and over,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,7
+Female,75 years and over,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,1
+Female,75 years and over,1,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,1
+Female,75 years and over,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,1
+Female,75 years and over,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,1
+Female,75 years and over,1,somewhat unlikely,equal or lower than highschool,somewhat interested,no,1
+Female,75 years and over,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,7
+Female,75 years and over,1,somewhat unlikely,equal or lower than highschool,very interested,not answer,1
+Female,75 years and over,1,very likely,Bacholor's degree or higher,not very interested,no,2
+Female,75 years and over,1,very likely,Bacholor's degree or higher,not very interested,not answer,5
+Female,75 years and over,1,very likely,Bacholor's degree or higher,somewhat interested,no,4
+Female,75 years and over,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,7
+Female,75 years and over,1,very likely,Bacholor's degree or higher,somewhat interested,yes,2
+Female,75 years and over,1,very likely,Bacholor's degree or higher,very interested,no,3
+Female,75 years and over,1,very likely,Bacholor's degree or higher,very interested,not answer,4
+Female,75 years and over,1,very likely,Bacholor's degree or higher,very interested,yes,5
+Female,75 years and over,1,very likely,Post-secondary dipolma,not at all interested,not answer,1
+Female,75 years and over,1,very likely,Post-secondary dipolma,not at all interested,yes,1
+Female,75 years and over,1,very likely,Post-secondary dipolma,not very interested,no,1
+Female,75 years and over,1,very likely,Post-secondary dipolma,not very interested,not answer,3
+Female,75 years and over,1,very likely,Post-secondary dipolma,not very interested,yes,3
+Female,75 years and over,1,very likely,Post-secondary dipolma,somewhat interested,no,8
+Female,75 years and over,1,very likely,Post-secondary dipolma,somewhat interested,not answer,27
+Female,75 years and over,1,very likely,Post-secondary dipolma,somewhat interested,yes,16
+Female,75 years and over,1,very likely,Post-secondary dipolma,very interested,no,5
+Female,75 years and over,1,very likely,Post-secondary dipolma,very interested,not answer,16
+Female,75 years and over,1,very likely,Post-secondary dipolma,very interested,yes,7
+Female,75 years and over,1,very likely,equal or lower than highschool,not at all interested,no,1
+Female,75 years and over,1,very likely,equal or lower than highschool,not at all interested,not answer,10
+Female,75 years and over,1,very likely,equal or lower than highschool,not at all interested,yes,3
+Female,75 years and over,1,very likely,equal or lower than highschool,not very interested,no,1
+Female,75 years and over,1,very likely,equal or lower than highschool,not very interested,not answer,28
+Female,75 years and over,1,very likely,equal or lower than highschool,not very interested,yes,5
+Female,75 years and over,1,very likely,equal or lower than highschool,somewhat interested,no,10
+Female,75 years and over,1,very likely,equal or lower than highschool,somewhat interested,not answer,62
+Female,75 years and over,1,very likely,equal or lower than highschool,somewhat interested,yes,20
+Female,75 years and over,1,very likely,equal or lower than highschool,very interested,no,7
+Female,75 years and over,1,very likely,equal or lower than highschool,very interested,not answer,28
+Female,75 years and over,1,very likely,equal or lower than highschool,very interested,yes,5
+Female,75 years and over,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,1
+Female,75 years and over,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,1
+Female,75 years and over,1,very unlikely,Post-secondary dipolma,somewhat interested,no,1
+Female,75 years and over,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,1
+Female,75 years and over,1,very unlikely,equal or lower than highschool,not at all interested,not answer,1
+Female,75 years and over,1,very unlikely,equal or lower than highschool,not very interested,not answer,2
+Female,75 years and over,1,very unlikely,equal or lower than highschool,not very interested,yes,1
+Female,75 years and over,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,1
+Male,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,yes,1
+Male,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,3
+Male,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,5
+Male,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,3
+Male,15 to 34 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,2
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,no,1
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,7
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,yes,2
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,no,2
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,3
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,2
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,4
+Male,15 to 34 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,1
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,no,9
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,34
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,17
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,no,11
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,50
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,yes,22
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,10
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,44
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,28
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,very interested,no,2
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,very interested,not answer,11
+Male,15 to 34 years,0,Don't know or not eligible,equal or lower than highschool,very interested,yes,8
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,3
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,yes,3
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not very interested,no,2
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not very interested,not answer,17
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,not very interested,yes,6
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,no,2
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,17
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,6
+Male,15 to 34 years,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,3
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not at all interested,no,1
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,11
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,4
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not very interested,no,5
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,35
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,not very interested,yes,9
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,3
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,32
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,yes,7
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,very interested,not answer,7
+Male,15 to 34 years,0,somewhat likely,Post-secondary dipolma,very interested,yes,1
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,not at all interested,no,6
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,44
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,not at all interested,yes,5
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,not very interested,no,9
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,not very interested,not answer,82
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,not very interested,yes,38
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,somewhat interested,no,11
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,101
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,54
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,very interested,not answer,13
+Male,15 to 34 years,0,somewhat likely,equal or lower than highschool,very interested,yes,6
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,no,1
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,6
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,1
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,8
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,4
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,6
+Male,15 to 34 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,4
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,11
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,12
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,yes,1
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,8
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,2
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,very interested,no,1
+Male,15 to 34 years,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,4
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,3
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,38
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,8
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not very interested,no,4
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,47
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,not very interested,yes,21
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,no,2
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,38
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,20
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,very interested,not answer,3
+Male,15 to 34 years,0,somewhat unlikely,equal or lower than highschool,very interested,yes,1
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,not at all interested,not answer,4
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,not at all interested,yes,2
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,not very interested,no,3
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,not very interested,not answer,22
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,not very interested,yes,6
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,somewhat interested,no,9
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,92
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,somewhat interested,yes,48
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,very interested,no,9
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,very interested,not answer,52
+Male,15 to 34 years,0,very likely,Bacholor's degree or higher,very interested,yes,39
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,not at all interested,no,1
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,not at all interested,not answer,11
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,not at all interested,yes,7
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,not very interested,no,6
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,not very interested,not answer,47
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,not very interested,yes,13
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,somewhat interested,no,15
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,somewhat interested,not answer,123
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,somewhat interested,yes,31
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,very interested,no,6
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,very interested,not answer,61
+Male,15 to 34 years,0,very likely,Post-secondary dipolma,very interested,yes,17
+Male,15 to 34 years,0,very likely,equal or lower than highschool,not at all interested,no,3
+Male,15 to 34 years,0,very likely,equal or lower than highschool,not at all interested,not answer,41
+Male,15 to 34 years,0,very likely,equal or lower than highschool,not at all interested,yes,9
+Male,15 to 34 years,0,very likely,equal or lower than highschool,not very interested,no,11
+Male,15 to 34 years,0,very likely,equal or lower than highschool,not very interested,not answer,78
+Male,15 to 34 years,0,very likely,equal or lower than highschool,not very interested,yes,27
+Male,15 to 34 years,0,very likely,equal or lower than highschool,somewhat interested,no,31
+Male,15 to 34 years,0,very likely,equal or lower than highschool,somewhat interested,not answer,236
+Male,15 to 34 years,0,very likely,equal or lower than highschool,somewhat interested,yes,136
+Male,15 to 34 years,0,very likely,equal or lower than highschool,very interested,no,18
+Male,15 to 34 years,0,very likely,equal or lower than highschool,very interested,not answer,85
+Male,15 to 34 years,0,very likely,equal or lower than highschool,very interested,yes,68
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not at all interested,no,3
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,13
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not at all interested,yes,2
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not very interested,no,1
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not very interested,not answer,9
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,not very interested,yes,3
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,12
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,yes,6
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,very interested,not answer,6
+Male,15 to 34 years,0,very unlikely,Bacholor's degree or higher,very interested,yes,4
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,not at all interested,no,2
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,14
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,not at all interested,yes,3
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,not very interested,not answer,10
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,not very interested,yes,1
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,somewhat interested,no,1
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,6
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,somewhat interested,yes,2
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,very interested,not answer,5
+Male,15 to 34 years,0,very unlikely,Post-secondary dipolma,very interested,yes,2
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,not at all interested,no,4
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,not at all interested,not answer,57
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,not at all interested,yes,13
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,not very interested,no,2
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,not very interested,not answer,30
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,not very interested,yes,10
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,somewhat interested,no,5
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,29
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,somewhat interested,yes,19
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,very interested,not answer,6
+Male,15 to 34 years,0,very unlikely,equal or lower than highschool,very interested,yes,6
+Male,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,1
+Male,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,6
+Male,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,1
+Male,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,2
+Male,15 to 34 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,2
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,yes,1
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,no,1
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,3
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,2
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,1
+Male,15 to 34 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Male,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,3
+Male,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,5
+Male,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,yes,2
+Male,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,1
+Male,15 to 34 years,1,Don't know or not eligible,equal or lower than highschool,very interested,yes,2
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,4
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,yes,1
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not very interested,no,2
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,5
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,not very interested,yes,1
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,no,1
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,5
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,2
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,very interested,no,1
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,very interested,not answer,2
+Male,15 to 34 years,1,somewhat likely,Bacholor's degree or higher,very interested,yes,4
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,5
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not very interested,no,2
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,13
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,not very interested,yes,5
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,no,2
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,11
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,5
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,very interested,not answer,1
+Male,15 to 34 years,1,somewhat likely,Post-secondary dipolma,very interested,yes,1
+Male,15 to 34 years,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,5
+Male,15 to 34 years,1,somewhat likely,equal or lower than highschool,not very interested,not answer,8
+Male,15 to 34 years,1,somewhat likely,equal or lower than highschool,not very interested,yes,3
+Male,15 to 34 years,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,7
+Male,15 to 34 years,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,3
+Male,15 to 34 years,1,somewhat likely,equal or lower than highschool,very interested,not answer,1
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,1
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,no,1
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,2
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,6
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,4
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,2
+Male,15 to 34 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,yes,1
+Male,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,no,1
+Male,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,4
+Male,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,5
+Male,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,5
+Male,15 to 34 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,1
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,6
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,yes,2
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not very interested,no,1
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,5
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,4
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,2
+Male,15 to 34 years,1,somewhat unlikely,equal or lower than highschool,very interested,not answer,1
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,not at all interested,not answer,2
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,not at all interested,yes,1
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,not very interested,no,4
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,not very interested,not answer,16
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,not very interested,yes,10
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,somewhat interested,no,7
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,51
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,somewhat interested,yes,29
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,very interested,no,3
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,very interested,not answer,32
+Male,15 to 34 years,1,very likely,Bacholor's degree or higher,very interested,yes,22
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,not at all interested,no,1
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,not at all interested,not answer,3
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,not at all interested,yes,5
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,not very interested,no,3
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,not very interested,not answer,24
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,not very interested,yes,7
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,somewhat interested,no,5
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,somewhat interested,not answer,45
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,somewhat interested,yes,21
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,very interested,no,4
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,very interested,not answer,26
+Male,15 to 34 years,1,very likely,Post-secondary dipolma,very interested,yes,9
+Male,15 to 34 years,1,very likely,equal or lower than highschool,not at all interested,not answer,5
+Male,15 to 34 years,1,very likely,equal or lower than highschool,not at all interested,yes,2
+Male,15 to 34 years,1,very likely,equal or lower than highschool,not very interested,no,3
+Male,15 to 34 years,1,very likely,equal or lower than highschool,not very interested,not answer,16
+Male,15 to 34 years,1,very likely,equal or lower than highschool,not very interested,yes,4
+Male,15 to 34 years,1,very likely,equal or lower than highschool,somewhat interested,no,3
+Male,15 to 34 years,1,very likely,equal or lower than highschool,somewhat interested,not answer,28
+Male,15 to 34 years,1,very likely,equal or lower than highschool,somewhat interested,yes,9
+Male,15 to 34 years,1,very likely,equal or lower than highschool,very interested,not answer,9
+Male,15 to 34 years,1,very likely,equal or lower than highschool,very interested,yes,4
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not at all interested,not answer,4
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,2
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,not very interested,not answer,6
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,7
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,5
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,very interested,not answer,7
+Male,15 to 34 years,1,very unlikely,Bacholor's degree or higher,very interested,yes,2
+Male,15 to 34 years,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,9
+Male,15 to 34 years,1,very unlikely,Post-secondary dipolma,not at all interested,yes,1
+Male,15 to 34 years,1,very unlikely,Post-secondary dipolma,not very interested,no,1
+Male,15 to 34 years,1,very unlikely,Post-secondary dipolma,not very interested,not answer,4
+Male,15 to 34 years,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,4
+Male,15 to 34 years,1,very unlikely,Post-secondary dipolma,somewhat interested,yes,2
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,not at all interested,not answer,12
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,not at all interested,yes,3
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,not very interested,no,1
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,not very interested,not answer,3
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,not very interested,yes,1
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,5
+Male,15 to 34 years,1,very unlikely,equal or lower than highschool,very interested,not answer,2
+Male,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,3
+Male,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,5
+Male,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,3
+Male,35 to 54 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,2
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,5
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,no,2
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,6
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,2
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,no,1
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,5
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,2
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,4
+Male,35 to 54 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,5
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,1
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,no,1
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,11
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,yes,1
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,1
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,7
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,1
+Male,35 to 54 years,0,Don't know or not eligible,equal or lower than highschool,very interested,not answer,3
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,5
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not very interested,not answer,6
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,not very interested,yes,2
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,no,1
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,14
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,4
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,very interested,no,1
+Male,35 to 54 years,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,3
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,10
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,3
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,11
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,not very interested,yes,5
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,2
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,28
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,yes,11
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,very interested,no,1
+Male,35 to 54 years,0,somewhat likely,Post-secondary dipolma,very interested,not answer,7
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,not at all interested,no,1
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,18
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,not very interested,no,3
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,not very interested,not answer,36
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,not very interested,yes,5
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,somewhat interested,no,1
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,36
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,2
+Male,35 to 54 years,0,somewhat likely,equal or lower than highschool,very interested,not answer,7
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,4
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,1
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,no,1
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,3
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,1
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,4
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,3
+Male,35 to 54 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,2
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,11
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,1
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,9
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,yes,4
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,3
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,2
+Male,35 to 54 years,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,3
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,1
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,17
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,4
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not very interested,no,1
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,11
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,8
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,2
+Male,35 to 54 years,0,somewhat unlikely,equal or lower than highschool,very interested,no,1
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,not at all interested,no,1
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,not at all interested,not answer,9
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,not at all interested,yes,1
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,not very interested,no,2
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,not very interested,not answer,18
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,not very interested,yes,9
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,somewhat interested,no,14
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,85
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,somewhat interested,yes,42
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,very interested,no,16
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,very interested,not answer,91
+Male,35 to 54 years,0,very likely,Bacholor's degree or higher,very interested,yes,44
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,not at all interested,no,2
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,not at all interested,not answer,22
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,not at all interested,yes,3
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,not very interested,no,5
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,not very interested,not answer,50
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,not very interested,yes,4
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,somewhat interested,no,6
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,somewhat interested,not answer,168
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,somewhat interested,yes,42
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,very interested,no,7
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,very interested,not answer,80
+Male,35 to 54 years,0,very likely,Post-secondary dipolma,very interested,yes,22
+Male,35 to 54 years,0,very likely,equal or lower than highschool,not at all interested,not answer,30
+Male,35 to 54 years,0,very likely,equal or lower than highschool,not at all interested,yes,4
+Male,35 to 54 years,0,very likely,equal or lower than highschool,not very interested,no,1
+Male,35 to 54 years,0,very likely,equal or lower than highschool,not very interested,not answer,53
+Male,35 to 54 years,0,very likely,equal or lower than highschool,not very interested,yes,10
+Male,35 to 54 years,0,very likely,equal or lower than highschool,somewhat interested,no,11
+Male,35 to 54 years,0,very likely,equal or lower than highschool,somewhat interested,not answer,159
+Male,35 to 54 years,0,very likely,equal or lower than highschool,somewhat interested,yes,21
+Male,35 to 54 years,0,very likely,equal or lower than highschool,very interested,no,8
+Male,35 to 54 years,0,very likely,equal or lower than highschool,very interested,not answer,57
+Male,35 to 54 years,0,very likely,equal or lower than highschool,very interested,yes,17
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not at all interested,no,2
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,4
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,not at all interested,yes,1
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,4
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,yes,1
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,very interested,not answer,9
+Male,35 to 54 years,0,very unlikely,Bacholor's degree or higher,very interested,yes,2
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,not at all interested,no,1
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,27
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,not at all interested,yes,2
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,not very interested,not answer,4
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,not very interested,yes,1
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,3
+Male,35 to 54 years,0,very unlikely,Post-secondary dipolma,very interested,not answer,5
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,not at all interested,no,3
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,not at all interested,not answer,48
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,not at all interested,yes,3
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,not very interested,not answer,5
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,not very interested,yes,1
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,6
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,somewhat interested,yes,1
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,very interested,not answer,5
+Male,35 to 54 years,0,very unlikely,equal or lower than highschool,very interested,yes,2
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,7
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,yes,3
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,no,1
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,6
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,2
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,no,1
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,11
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,1
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,1
+Male,35 to 54 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,3
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,4
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,no,1
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,10
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,2
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,no,1
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,6
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,3
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,5
+Male,35 to 54 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Male,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,10
+Male,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,no,2
+Male,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,12
+Male,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,yes,3
+Male,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,9
+Male,35 to 54 years,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,2
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,9
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not very interested,no,1
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,21
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,not very interested,yes,9
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,no,1
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,24
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,13
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,very interested,no,1
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,very interested,not answer,5
+Male,35 to 54 years,1,somewhat likely,Bacholor's degree or higher,very interested,yes,3
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not at all interested,no,1
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,6
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not at all interested,yes,2
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not very interested,no,3
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,21
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,not very interested,yes,4
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,no,8
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,25
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,12
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,very interested,no,2
+Male,35 to 54 years,1,somewhat likely,Post-secondary dipolma,very interested,not answer,6
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,not at all interested,no,1
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,19
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,not at all interested,yes,2
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,not very interested,no,6
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,not very interested,not answer,25
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,not very interested,yes,5
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,somewhat interested,no,5
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,27
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,5
+Male,35 to 54 years,1,somewhat likely,equal or lower than highschool,very interested,not answer,4
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,10
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,no,1
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,12
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,3
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,7
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,yes,4
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,4
+Male,35 to 54 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,yes,2
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,14
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,1
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,no,2
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,5
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,yes,4
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,no,1
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,10
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,1
+Male,35 to 54 years,1,somewhat unlikely,Post-secondary dipolma,very interested,yes,1
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,8
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,yes,1
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not very interested,no,1
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,11
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,3
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,1
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,1
+Male,35 to 54 years,1,somewhat unlikely,equal or lower than highschool,very interested,not answer,2
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,not at all interested,no,2
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,not at all interested,not answer,27
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,not at all interested,yes,9
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,not very interested,no,9
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,not very interested,not answer,59
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,not very interested,yes,42
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,somewhat interested,no,34
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,223
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,somewhat interested,yes,150
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,very interested,no,23
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,very interested,not answer,145
+Male,35 to 54 years,1,very likely,Bacholor's degree or higher,very interested,yes,127
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,not at all interested,no,5
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,not at all interested,not answer,23
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,not at all interested,yes,5
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,not very interested,no,12
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,not very interested,not answer,68
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,not very interested,yes,28
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,somewhat interested,no,27
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,somewhat interested,not answer,211
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,somewhat interested,yes,124
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,very interested,no,14
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,very interested,not answer,109
+Male,35 to 54 years,1,very likely,Post-secondary dipolma,very interested,yes,62
+Male,35 to 54 years,1,very likely,equal or lower than highschool,not at all interested,no,1
+Male,35 to 54 years,1,very likely,equal or lower than highschool,not at all interested,not answer,33
+Male,35 to 54 years,1,very likely,equal or lower than highschool,not at all interested,yes,2
+Male,35 to 54 years,1,very likely,equal or lower than highschool,not very interested,no,13
+Male,35 to 54 years,1,very likely,equal or lower than highschool,not very interested,not answer,59
+Male,35 to 54 years,1,very likely,equal or lower than highschool,not very interested,yes,21
+Male,35 to 54 years,1,very likely,equal or lower than highschool,somewhat interested,no,12
+Male,35 to 54 years,1,very likely,equal or lower than highschool,somewhat interested,not answer,140
+Male,35 to 54 years,1,very likely,equal or lower than highschool,somewhat interested,yes,43
+Male,35 to 54 years,1,very likely,equal or lower than highschool,very interested,no,10
+Male,35 to 54 years,1,very likely,equal or lower than highschool,very interested,not answer,40
+Male,35 to 54 years,1,very likely,equal or lower than highschool,very interested,yes,35
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not at all interested,no,1
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not at all interested,not answer,16
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,4
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not very interested,no,2
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not very interested,not answer,9
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,not very interested,yes,2
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,16
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,11
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,very interested,no,1
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,very interested,not answer,13
+Male,35 to 54 years,1,very unlikely,Bacholor's degree or higher,very interested,yes,5
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,not at all interested,no,2
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,21
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,not at all interested,yes,8
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,not very interested,not answer,8
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,not very interested,yes,2
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,somewhat interested,no,1
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,13
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,somewhat interested,yes,7
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,very interested,not answer,4
+Male,35 to 54 years,1,very unlikely,Post-secondary dipolma,very interested,yes,3
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,not at all interested,no,2
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,not at all interested,not answer,22
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,not at all interested,yes,11
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,not very interested,no,1
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,not very interested,not answer,8
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,not very interested,yes,4
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,somewhat interested,no,3
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,6
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,somewhat interested,yes,2
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,very interested,not answer,1
+Male,35 to 54 years,1,very unlikely,equal or lower than highschool,very interested,yes,1
+Male,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,1
+Male,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,1
+Male,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,1
+Male,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,2
+Male,55 to 74 years,0,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,2
+Male,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,4
+Male,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not at all interested,yes,1
+Male,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,2
+Male,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,not very interested,yes,1
+Male,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,3
+Male,55 to 74 years,0,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,2
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,15
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,9
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,not very interested,yes,2
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,7
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,1
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,very interested,no,1
+Male,55 to 74 years,0,Don't know or not eligible,equal or lower than highschool,very interested,not answer,2
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,no,1
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,3
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,not very interested,not answer,4
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,15
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,2
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,3
+Male,55 to 74 years,0,somewhat likely,Bacholor's degree or higher,very interested,yes,2
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,10
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not very interested,not answer,8
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,not very interested,yes,1
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,no,1
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,15
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,somewhat interested,yes,1
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,very interested,not answer,3
+Male,55 to 74 years,0,somewhat likely,Post-secondary dipolma,very interested,yes,1
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,not at all interested,no,1
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,8
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,not at all interested,yes,1
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,not very interested,no,1
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,not very interested,not answer,17
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,not very interested,yes,2
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,21
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,3
+Male,55 to 74 years,0,somewhat likely,equal or lower than highschool,very interested,yes,1
+Male,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,1
+Male,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,1
+Male,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,2
+Male,55 to 74 years,0,somewhat unlikely,Bacholor's degree or higher,very interested,yes,1
+Male,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,5
+Male,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not at all interested,yes,1
+Male,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,3
+Male,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,3
+Male,55 to 74 years,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,3
+Male,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,1
+Male,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,18
+Male,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,1
+Male,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,5
+Male,55 to 74 years,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,7
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,not at all interested,no,1
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,not at all interested,not answer,5
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,not at all interested,yes,2
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,not very interested,no,3
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,not very interested,not answer,10
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,not very interested,yes,5
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,somewhat interested,no,8
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,66
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,somewhat interested,yes,29
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,very interested,no,13
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,very interested,not answer,81
+Male,55 to 74 years,0,very likely,Bacholor's degree or higher,very interested,yes,50
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,not at all interested,no,1
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,not at all interested,not answer,18
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,not very interested,no,4
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,not very interested,not answer,19
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,not very interested,yes,3
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,somewhat interested,no,13
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,somewhat interested,not answer,109
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,somewhat interested,yes,36
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,very interested,no,10
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,very interested,not answer,66
+Male,55 to 74 years,0,very likely,Post-secondary dipolma,very interested,yes,31
+Male,55 to 74 years,0,very likely,equal or lower than highschool,not at all interested,no,1
+Male,55 to 74 years,0,very likely,equal or lower than highschool,not at all interested,not answer,35
+Male,55 to 74 years,0,very likely,equal or lower than highschool,not at all interested,yes,5
+Male,55 to 74 years,0,very likely,equal or lower than highschool,not very interested,no,7
+Male,55 to 74 years,0,very likely,equal or lower than highschool,not very interested,not answer,71
+Male,55 to 74 years,0,very likely,equal or lower than highschool,not very interested,yes,4
+Male,55 to 74 years,0,very likely,equal or lower than highschool,somewhat interested,no,16
+Male,55 to 74 years,0,very likely,equal or lower than highschool,somewhat interested,not answer,166
+Male,55 to 74 years,0,very likely,equal or lower than highschool,somewhat interested,yes,33
+Male,55 to 74 years,0,very likely,equal or lower than highschool,very interested,no,4
+Male,55 to 74 years,0,very likely,equal or lower than highschool,very interested,not answer,90
+Male,55 to 74 years,0,very likely,equal or lower than highschool,very interested,yes,29
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not at all interested,no,1
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,4
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not at all interested,yes,2
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not very interested,no,1
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,not very interested,not answer,1
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,1
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,somewhat interested,yes,1
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,very interested,not answer,3
+Male,55 to 74 years,0,very unlikely,Bacholor's degree or higher,very interested,yes,1
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,11
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,not at all interested,yes,1
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,not very interested,no,1
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,not very interested,not answer,2
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,4
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,very interested,not answer,2
+Male,55 to 74 years,0,very unlikely,Post-secondary dipolma,very interested,yes,1
+Male,55 to 74 years,0,very unlikely,equal or lower than highschool,not at all interested,no,2
+Male,55 to 74 years,0,very unlikely,equal or lower than highschool,not at all interested,not answer,38
+Male,55 to 74 years,0,very unlikely,equal or lower than highschool,not very interested,no,1
+Male,55 to 74 years,0,very unlikely,equal or lower than highschool,not very interested,not answer,8
+Male,55 to 74 years,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,6
+Male,55 to 74 years,0,very unlikely,equal or lower than highschool,very interested,not answer,3
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,not answer,3
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not at all interested,yes,1
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,not answer,2
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,not very interested,yes,1
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,somewhat interested,yes,2
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,not answer,2
+Male,55 to 74 years,1,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,1
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,not at all interested,not answer,3
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,no,1
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,6
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,no,2
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,5
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,somewhat interested,yes,2
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,not answer,2
+Male,55 to 74 years,1,Don't know or not eligible,Post-secondary dipolma,very interested,yes,2
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,no,1
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,14
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,no,2
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,7
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,not very interested,yes,1
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,no,1
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,7
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,yes,5
+Male,55 to 74 years,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,3
+Male,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not at all interested,not answer,3
+Male,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,7
+Male,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,not very interested,yes,2
+Male,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,9
+Male,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,somewhat interested,yes,4
+Male,55 to 74 years,1,somewhat likely,Bacholor's degree or higher,very interested,not answer,6
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,5
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,7
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,not very interested,yes,1
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,no,2
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,13
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,somewhat interested,yes,3
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,very interested,no,1
+Male,55 to 74 years,1,somewhat likely,Post-secondary dipolma,very interested,not answer,2
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,7
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,not at all interested,yes,1
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,not very interested,no,1
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,not very interested,not answer,20
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,not very interested,yes,4
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,somewhat interested,no,2
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,29
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,4
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,very interested,no,1
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,very interested,not answer,6
+Male,55 to 74 years,1,somewhat likely,equal or lower than highschool,very interested,yes,2
+Male,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,not answer,1
+Male,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not at all interested,yes,3
+Male,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,not answer,3
+Male,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,not very interested,yes,2
+Male,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,55 to 74 years,1,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,3
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,9
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,no,1
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,not very interested,not answer,7
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,no,1
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,6
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,yes,1
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,very interested,no,1
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,very interested,not answer,1
+Male,55 to 74 years,1,somewhat unlikely,Post-secondary dipolma,very interested,yes,3
+Male,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,6
+Male,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,4
+Male,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,1
+Male,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,5
+Male,55 to 74 years,1,somewhat unlikely,equal or lower than highschool,very interested,not answer,2
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,not at all interested,no,2
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,not at all interested,not answer,11
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,not at all interested,yes,1
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,not very interested,no,4
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,not very interested,not answer,20
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,not very interested,yes,16
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,somewhat interested,no,39
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,133
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,somewhat interested,yes,137
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,very interested,no,32
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,very interested,not answer,148
+Male,55 to 74 years,1,very likely,Bacholor's degree or higher,very interested,yes,150
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,not at all interested,no,3
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,not at all interested,not answer,13
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,not at all interested,yes,2
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,not very interested,no,7
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,not very interested,not answer,53
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,not very interested,yes,23
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,somewhat interested,no,27
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,somewhat interested,not answer,195
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,somewhat interested,yes,95
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,very interested,no,22
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,very interested,not answer,133
+Male,55 to 74 years,1,very likely,Post-secondary dipolma,very interested,yes,87
+Male,55 to 74 years,1,very likely,equal or lower than highschool,not at all interested,no,2
+Male,55 to 74 years,1,very likely,equal or lower than highschool,not at all interested,not answer,47
+Male,55 to 74 years,1,very likely,equal or lower than highschool,not at all interested,yes,6
+Male,55 to 74 years,1,very likely,equal or lower than highschool,not very interested,no,11
+Male,55 to 74 years,1,very likely,equal or lower than highschool,not very interested,not answer,103
+Male,55 to 74 years,1,very likely,equal or lower than highschool,not very interested,yes,11
+Male,55 to 74 years,1,very likely,equal or lower than highschool,somewhat interested,no,27
+Male,55 to 74 years,1,very likely,equal or lower than highschool,somewhat interested,not answer,307
+Male,55 to 74 years,1,very likely,equal or lower than highschool,somewhat interested,yes,82
+Male,55 to 74 years,1,very likely,equal or lower than highschool,very interested,no,22
+Male,55 to 74 years,1,very likely,equal or lower than highschool,very interested,not answer,122
+Male,55 to 74 years,1,very likely,equal or lower than highschool,very interested,yes,52
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not at all interested,not answer,3
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,3
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,not very interested,not answer,3
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,no,1
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,8
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,somewhat interested,yes,2
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,very interested,not answer,6
+Male,55 to 74 years,1,very unlikely,Bacholor's degree or higher,very interested,yes,3
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,not at all interested,no,1
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,not at all interested,not answer,3
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,not at all interested,yes,2
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,not very interested,not answer,4
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,not very interested,yes,2
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,2
+Male,55 to 74 years,1,very unlikely,Post-secondary dipolma,somewhat interested,yes,3
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,not at all interested,no,1
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,not at all interested,not answer,28
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,not at all interested,yes,3
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,not very interested,not answer,5
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,not very interested,yes,1
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,8
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,somewhat interested,yes,1
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,very interested,no,1
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,very interested,not answer,4
+Male,55 to 74 years,1,very unlikely,equal or lower than highschool,very interested,yes,1
+Male,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,1
+Male,75 years and over,0,Don't know or not eligible,Post-secondary dipolma,somewhat interested,not answer,1
+Male,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,6
+Male,75 years and over,0,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,3
+Male,75 years and over,0,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,4
+Male,75 years and over,0,somewhat likely,Bacholor's degree or higher,very interested,not answer,2
+Male,75 years and over,0,somewhat likely,Bacholor's degree or higher,very interested,yes,1
+Male,75 years and over,0,somewhat likely,Post-secondary dipolma,not at all interested,not answer,4
+Male,75 years and over,0,somewhat likely,Post-secondary dipolma,not at all interested,yes,1
+Male,75 years and over,0,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,3
+Male,75 years and over,0,somewhat likely,Post-secondary dipolma,very interested,no,1
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,not at all interested,not answer,3
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,not very interested,no,1
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,not very interested,not answer,3
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,somewhat interested,no,1
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,somewhat interested,not answer,2
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,somewhat interested,yes,1
+Male,75 years and over,0,somewhat likely,equal or lower than highschool,very interested,not answer,3
+Male,75 years and over,0,somewhat unlikely,Bacholor's degree or higher,very interested,not answer,1
+Male,75 years and over,0,somewhat unlikely,Post-secondary dipolma,not at all interested,not answer,1
+Male,75 years and over,0,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,2
+Male,75 years and over,0,somewhat unlikely,Post-secondary dipolma,very interested,not answer,1
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,not at all interested,no,1
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,4
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,not at all interested,yes,1
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,not very interested,no,1
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,not very interested,not answer,1
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,1
+Male,75 years and over,0,somewhat unlikely,equal or lower than highschool,very interested,not answer,1
+Male,75 years and over,0,very likely,Bacholor's degree or higher,not at all interested,not answer,3
+Male,75 years and over,0,very likely,Bacholor's degree or higher,not very interested,not answer,5
+Male,75 years and over,0,very likely,Bacholor's degree or higher,somewhat interested,no,1
+Male,75 years and over,0,very likely,Bacholor's degree or higher,somewhat interested,not answer,13
+Male,75 years and over,0,very likely,Bacholor's degree or higher,somewhat interested,yes,7
+Male,75 years and over,0,very likely,Bacholor's degree or higher,very interested,no,2
+Male,75 years and over,0,very likely,Bacholor's degree or higher,very interested,not answer,15
+Male,75 years and over,0,very likely,Bacholor's degree or higher,very interested,yes,8
+Male,75 years and over,0,very likely,Post-secondary dipolma,not at all interested,not answer,2
+Male,75 years and over,0,very likely,Post-secondary dipolma,not very interested,not answer,4
+Male,75 years and over,0,very likely,Post-secondary dipolma,not very interested,yes,3
+Male,75 years and over,0,very likely,Post-secondary dipolma,somewhat interested,no,2
+Male,75 years and over,0,very likely,Post-secondary dipolma,somewhat interested,not answer,26
+Male,75 years and over,0,very likely,Post-secondary dipolma,somewhat interested,yes,7
+Male,75 years and over,0,very likely,Post-secondary dipolma,very interested,no,1
+Male,75 years and over,0,very likely,Post-secondary dipolma,very interested,not answer,17
+Male,75 years and over,0,very likely,Post-secondary dipolma,very interested,yes,4
+Male,75 years and over,0,very likely,equal or lower than highschool,not at all interested,no,1
+Male,75 years and over,0,very likely,equal or lower than highschool,not at all interested,not answer,17
+Male,75 years and over,0,very likely,equal or lower than highschool,not very interested,no,2
+Male,75 years and over,0,very likely,equal or lower than highschool,not very interested,not answer,42
+Male,75 years and over,0,very likely,equal or lower than highschool,not very interested,yes,4
+Male,75 years and over,0,very likely,equal or lower than highschool,somewhat interested,no,7
+Male,75 years and over,0,very likely,equal or lower than highschool,somewhat interested,not answer,62
+Male,75 years and over,0,very likely,equal or lower than highschool,somewhat interested,yes,11
+Male,75 years and over,0,very likely,equal or lower than highschool,very interested,no,3
+Male,75 years and over,0,very likely,equal or lower than highschool,very interested,not answer,34
+Male,75 years and over,0,very likely,equal or lower than highschool,very interested,yes,9
+Male,75 years and over,0,very unlikely,Bacholor's degree or higher,not at all interested,not answer,1
+Male,75 years and over,0,very unlikely,Bacholor's degree or higher,not very interested,not answer,1
+Male,75 years and over,0,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,75 years and over,0,very unlikely,Bacholor's degree or higher,very interested,no,1
+Male,75 years and over,0,very unlikely,Post-secondary dipolma,not at all interested,not answer,2
+Male,75 years and over,0,very unlikely,Post-secondary dipolma,not very interested,no,1
+Male,75 years and over,0,very unlikely,Post-secondary dipolma,somewhat interested,not answer,1
+Male,75 years and over,0,very unlikely,Post-secondary dipolma,somewhat interested,yes,1
+Male,75 years and over,0,very unlikely,Post-secondary dipolma,very interested,not answer,1
+Male,75 years and over,0,very unlikely,equal or lower than highschool,not at all interested,not answer,8
+Male,75 years and over,0,very unlikely,equal or lower than highschool,not very interested,not answer,3
+Male,75 years and over,0,very unlikely,equal or lower than highschool,not very interested,yes,1
+Male,75 years and over,0,very unlikely,equal or lower than highschool,somewhat interested,not answer,2
+Male,75 years and over,0,very unlikely,equal or lower than highschool,somewhat interested,yes,2
+Male,75 years and over,1,Don't know or not eligible,Bacholor's degree or higher,very interested,yes,1
+Male,75 years and over,1,Don't know or not eligible,Post-secondary dipolma,not very interested,not answer,1
+Male,75 years and over,1,Don't know or not eligible,Post-secondary dipolma,very interested,yes,1
+Male,75 years and over,1,Don't know or not eligible,equal or lower than highschool,not at all interested,not answer,2
+Male,75 years and over,1,Don't know or not eligible,equal or lower than highschool,not at all interested,yes,1
+Male,75 years and over,1,Don't know or not eligible,equal or lower than highschool,not very interested,not answer,2
+Male,75 years and over,1,Don't know or not eligible,equal or lower than highschool,somewhat interested,not answer,3
+Male,75 years and over,1,Don't know or not eligible,equal or lower than highschool,very interested,no,1
+Male,75 years and over,1,Don't know or not eligible,equal or lower than highschool,very interested,not answer,1
+Male,75 years and over,1,somewhat likely,Bacholor's degree or higher,not very interested,no,1
+Male,75 years and over,1,somewhat likely,Bacholor's degree or higher,not very interested,not answer,1
+Male,75 years and over,1,somewhat likely,Bacholor's degree or higher,somewhat interested,not answer,1
+Male,75 years and over,1,somewhat likely,Post-secondary dipolma,not at all interested,not answer,2
+Male,75 years and over,1,somewhat likely,Post-secondary dipolma,not very interested,not answer,1
+Male,75 years and over,1,somewhat likely,Post-secondary dipolma,not very interested,yes,2
+Male,75 years and over,1,somewhat likely,Post-secondary dipolma,somewhat interested,not answer,3
+Male,75 years and over,1,somewhat likely,Post-secondary dipolma,very interested,not answer,1
+Male,75 years and over,1,somewhat likely,equal or lower than highschool,not at all interested,not answer,2
+Male,75 years and over,1,somewhat likely,equal or lower than highschool,not very interested,not answer,3
+Male,75 years and over,1,somewhat likely,equal or lower than highschool,not very interested,yes,1
+Male,75 years and over,1,somewhat likely,equal or lower than highschool,somewhat interested,no,1
+Male,75 years and over,1,somewhat likely,equal or lower than highschool,somewhat interested,not answer,5
+Male,75 years and over,1,somewhat likely,equal or lower than highschool,somewhat interested,yes,1
+Male,75 years and over,1,somewhat unlikely,Bacholor's degree or higher,somewhat interested,not answer,1
+Male,75 years and over,1,somewhat unlikely,Bacholor's degree or higher,very interested,yes,1
+Male,75 years and over,1,somewhat unlikely,Post-secondary dipolma,somewhat interested,not answer,1
+Male,75 years and over,1,somewhat unlikely,equal or lower than highschool,not at all interested,no,1
+Male,75 years and over,1,somewhat unlikely,equal or lower than highschool,not at all interested,not answer,3
+Male,75 years and over,1,somewhat unlikely,equal or lower than highschool,not very interested,not answer,3
+Male,75 years and over,1,somewhat unlikely,equal or lower than highschool,not very interested,yes,1
+Male,75 years and over,1,somewhat unlikely,equal or lower than highschool,somewhat interested,not answer,1
+Male,75 years and over,1,somewhat unlikely,equal or lower than highschool,somewhat interested,yes,1
+Male,75 years and over,1,very likely,Bacholor's degree or higher,not at all interested,not answer,3
+Male,75 years and over,1,very likely,Bacholor's degree or higher,not at all interested,yes,1
+Male,75 years and over,1,very likely,Bacholor's degree or higher,not very interested,no,1
+Male,75 years and over,1,very likely,Bacholor's degree or higher,not very interested,not answer,6
+Male,75 years and over,1,very likely,Bacholor's degree or higher,not very interested,yes,4
+Male,75 years and over,1,very likely,Bacholor's degree or higher,somewhat interested,no,9
+Male,75 years and over,1,very likely,Bacholor's degree or higher,somewhat interested,not answer,22
+Male,75 years and over,1,very likely,Bacholor's degree or higher,somewhat interested,yes,8
+Male,75 years and over,1,very likely,Bacholor's degree or higher,very interested,no,7
+Male,75 years and over,1,very likely,Bacholor's degree or higher,very interested,not answer,35
+Male,75 years and over,1,very likely,Bacholor's degree or higher,very interested,yes,14
+Male,75 years and over,1,very likely,Post-secondary dipolma,not at all interested,not answer,5
+Male,75 years and over,1,very likely,Post-secondary dipolma,not very interested,no,1
+Male,75 years and over,1,very likely,Post-secondary dipolma,not very interested,not answer,1
+Male,75 years and over,1,very likely,Post-secondary dipolma,somewhat interested,no,7
+Male,75 years and over,1,very likely,Post-secondary dipolma,somewhat interested,not answer,36
+Male,75 years and over,1,very likely,Post-secondary dipolma,somewhat interested,yes,12
+Male,75 years and over,1,very likely,Post-secondary dipolma,very interested,no,5
+Male,75 years and over,1,very likely,Post-secondary dipolma,very interested,not answer,20
+Male,75 years and over,1,very likely,Post-secondary dipolma,very interested,yes,11
+Male,75 years and over,1,very likely,equal or lower than highschool,not at all interested,no,3
+Male,75 years and over,1,very likely,equal or lower than highschool,not at all interested,not answer,19
+Male,75 years and over,1,very likely,equal or lower than highschool,not very interested,no,1
+Male,75 years and over,1,very likely,equal or lower than highschool,not very interested,not answer,33
+Male,75 years and over,1,very likely,equal or lower than highschool,not very interested,yes,4
+Male,75 years and over,1,very likely,equal or lower than highschool,somewhat interested,no,13
+Male,75 years and over,1,very likely,equal or lower than highschool,somewhat interested,not answer,84
+Male,75 years and over,1,very likely,equal or lower than highschool,somewhat interested,yes,16
+Male,75 years and over,1,very likely,equal or lower than highschool,very interested,no,11
+Male,75 years and over,1,very likely,equal or lower than highschool,very interested,not answer,40
+Male,75 years and over,1,very likely,equal or lower than highschool,very interested,yes,13
+Male,75 years and over,1,very unlikely,Bacholor's degree or higher,not at all interested,yes,1
+Male,75 years and over,1,very unlikely,Bacholor's degree or higher,somewhat interested,not answer,2
+Male,75 years and over,1,very unlikely,Bacholor's degree or higher,very interested,not answer,3
+Male,75 years and over,1,very unlikely,Post-secondary dipolma,not very interested,not answer,1
+Male,75 years and over,1,very unlikely,Post-secondary dipolma,somewhat interested,not answer,1
+Male,75 years and over,1,very unlikely,Post-secondary dipolma,very interested,not answer,3
+Male,75 years and over,1,very unlikely,Post-secondary dipolma,very interested,yes,1
+Male,75 years and over,1,very unlikely,equal or lower than highschool,not at all interested,not answer,5
+Male,75 years and over,1,very unlikely,equal or lower than highschool,not very interested,not answer,2
+Male,75 years and over,1,very unlikely,equal or lower than highschool,not very interested,yes,1
+Male,75 years and over,1,very unlikely,equal or lower than highschool,somewhat interested,no,2
+Male,75 years and over,1,very unlikely,equal or lower than highschool,somewhat interested,not answer,4
+Male,75 years and over,1,very unlikely,equal or lower than highschool,somewhat interested,yes,1
+Male,75 years and over,1,very unlikely,equal or lower than highschool,very interested,not answer,2
