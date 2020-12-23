@@ -1,0 +1,487 @@
+---
+title: "Statistical Analysis of the outcome of 2019 Canadian Election if everyone voted"
+author: "Yichen Su"
+output: bookdown::pdf_document2
+notice: "@*"
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(tidyverse)
+library(skimr)
+library(knitr)
+library(dplyr)
+library(ggplot2)
+library(gridExtra)
+library(table1)
+# Loading in the cleaned survey Data from Gss2013
+census_data <- read_csv("census_data.csv")
+# Loading in the cleaned survet Data from CES
+survey_data <- read.csv("survey_data.csv")
+survey_data2 <- na.omit(survey_data)
+```
+
+# Information
+
+**Topic:** Statistical Analysis of the outcome of 2019 Canadian Election if everyone voted
+
+**Author:** Yichen SU
+
+**Date:** December 22, 2020
+
+**Code and data for this analysis is available at: https://github.com/YichenSu529/STA304-final-project-Statistical-Analysis-of-the-outcome-of-2019-Canadian-Election-if-everyone-voted.git**
+
+
+# Abstract
+Politicians always aim for an increased turnout rate in the election, which has brought the curiosity of the outcome of having everyone votes for the election. In this study, we will analyze the proportion of people voting for Liberal and Conservative Parties in the 2019 Canadian Federal Election if having everyone votes. Since there are many factors such as sex, age, marital status, people’s interest in politics, and other individuals’ opinions that could affect their vote choice in the election, a combination of multiple logistic models and post-stratification method will be used in our study. The outcome suggests that the Conservative Party has more popular vote than the Liberal Party, which is consistent with the results in the 2019 Canadian Federal Election.
+
+Keywords: 2019 Canadian Federal Election, Election, Turnout, multiple logistic model, post-stratification, Stepwise selection 
+
+# Introduction
+
+The statistical technique and knowledge have been commonly used to produce the analysis regarding political outcomes or issues. Since there are more data regarding political science that combined many people’s attitudes, opinions, political and economic measures, the election prediction can be made based on these motivations. The decreasing voters’ turnout for the Canadian Federal Election becomes one of the major issues. And as we know the 2019 Canadian federal election, the Liberal Party 33.1% of the popular vote, which is lower than the Conservative Party with 34.4% despite the winning of the overall Federal Election (Dunham, B 2019). Therefore, it is interesting to know whether the outcome for the popular vote of these two parties is different from the actual results if consider “everyone” is voting.
+
+The way to provide the analysis in predicting the election result is to apply the statistical technique called multilevel regression and post-stratification (MRP) methods. This similar approach has been used by many professional analysts in predicting the national votes using past election polling and many sources of information(Lauderdale, Bailey, Blumenau & Rivers). Therefore, in this report, the multilevel regression model and post-stratification method can be used in predicting the proportion of people voting Liberal Party and people voting Conservative Party combined with factors of voters’ attitudes. In this case, we can determine whether the sample is representative, and the factors are responsible for people’s election decision.
+
+In this report, two datasets are being used to navigate the proportional is voter’s voting for two main political parties respectively if having everyone voting and how it is consistent with the actual result. One is obtained from the Canadian Election Study (CES) and another is obtained from the Canadian General Social Survey (GSS). In the Methodology section(section2), we would discuss in detail the data cleaning process and how the MRP model is stimulated. And as moving on to the Result section (Section3), the performance of our model in determining the proportion of votes for two parties will be shown. Lastly, in the Discussion section(section4), the statistical finds and consequences will be discussed and the potential weakness of the analysis and further improvement for the investigation will also be addressed.
+
+# Model
+
+## Data
+
+Two datasets are being used in this report. One dataset is retrieved from the 2019 Canadian Election Study (CES). The `ces2019_web` dataset is the sub-dataset of the 2019 CES online that includes some behaviors between voting and election. This dataset is used as the survey dataset because it contains numerous variables about the opinions and attitudes of the 2019 federal election. It also includes a lot of variables associated with social, economic, and political issues. And the other is retrieved from the 2013 Canadian General Social Survey (GSS) that contains lots of information about the political and social interests of the Canadians and the raw dataset of the 2013 GSS can be further used as the census data. The target population of the study is all Canadian who are allowed to vote. And the frame population is the people who do the survey online and by phone.
+
+## Data Cleaning
+
+The `ces2019_web` dataset and the raw dataset from the 2013 GSS are both raw data that contain a large number of variables, observations, and missing values. So, the data cleaning process is crucial. We will select some variables regarding the social, economic, and political opinions that could contribute to people’s voting choices. The chosen 10 variables are selected and renamed in the survey dataset in R script. The important variables `vote_liberal` and `vote_conservative` are also created based on the variables `votechoice`, which contain only 1 and 0. The original value 1 in `votechoice` means voting for liberal is assigned as 1 in `vote_liberal` and value 2 in `votechoice` means voting for conservative is referred to as 1 in `vote_conservative`. Since we are considered everyone is voting, people who are defined as `somewhat_unlikely` in `likely_to_vote` have NA in `votechoice`, which means they are unable to choose a value in `votechoice`. Therefore, another variable `unlikely_vote` has those people’s vote choice if they decide to vote. In this case, `vote_liberal` and `vote_conservative` should have also included those who are somewhat unlikely in `likely_to_vote` but has chosen to vote for these two parties if they vote. These have been produced in R script.
+       
+Before running the model selection, we need to mutate the variables of survey datasets; so that it is consistent with the census dataset to proceed post-stratification. The variables that are collected and renamed are `sex`, `age`, `if_married`, `likely_to_vote`, `edu_level`,`household_income`, `participate_volunteer`, `interest_politic`, `votechoice`, and `unlikely_vote`. Besides, census data are cleaned by partially using the R script that previously provided for GSS2017 and will be used for post-stratification later. And the mutation of variables should be similar to the survey dataset.
+
+```{r, include = FALSE}
+#renamed and mutated variables
+survey_data2 <- survey_data2 %>%
+  mutate(sex = if_else(sex == 1, "Male", "Female"))
+
+survey_data2 <- survey_data2 %>%
+  filter(age >= 15) %>%
+  mutate(age = if_else(age >= 15 & age <=34, "15 to 34 years",
+               if_else(age >= 35 & age <=54, "35 to 54 years",
+               if_else(age >= 55 & age <=74, "55 to 74 years","75 years and over"))))
+
+
+survey_data2 <- survey_data2 %>%
+  mutate(if_married = if_else(marital_status == 1, 1, 0))
+
+survey_data2 <- survey_data2 %>%
+  mutate(likely_to_vote = if_else(likely_to_vote == 1, "very likely",
+                          if_else(likely_to_vote == 2, "somewhat likely",
+                          if_else(likely_to_vote == 3, "somewhat unlikely",
+                          if_else(likely_to_vote == 4, "very unlikely", "Don't know or not eligible")))))
+  
+survey_data2 <- survey_data2 %>% 
+  filter(edu_level != 12) %>%
+  mutate(edu_level = if_else(edu_level == 1, "equal or lower than highschool",
+                     if_else(edu_level == 2, "equal or lower than highschool",
+                     if_else(edu_level == 3, "equal or lower than highschool",
+                     if_else(edu_level == 4, "equal or lower than highschool",
+                     if_else(edu_level == 5, "equal or lower than highschool",
+                     if_else(edu_level == 6 | edu_level == 7, "Post-secondary dipolma", "Bacholor's degree or higher")))))))
+
+survey_data2 <- survey_data2 %>% 
+  mutate(participate_volunteer = case_when(participate_volunteer == 2 ~ "yes",
+                                           participate_volunteer == 3 ~"yes",
+                                           participate_volunteer == 4 ~"yes",
+                                           participate_volunteer == 1 ~"no",
+                                           participate_volunteer == 5 ~"not answer"))
+
+survey_data2 <- survey_data2 %>% 
+  mutate(interest_politic = if_else(interest_politic == 0, "not at all interested",
+                            if_else(interest_politic >= 1 & interest_politic <= 4, "not very interested",
+                            if_else(interest_politic >= 5 & interest_politic <= 9, "somewhat interested", "very interested"))))
+
+new_survey <- survey_data2 %>%
+  select(sex, age, if_married, likely_to_vote, edu_level, vote_liberal, vote_conservative, participate_volunteer, interest_politic)
+
+unique(new_survey$likely_to_vote)
+```
+
+```{r, echo=FALSE, include=FALSE}
+table1(~ sex + age + if_married + likely_to_vote + edu_level + participate_volunteer + interest_politic + vote_liberal + vote_conservative, data = new_survey)
+```
+
+```{r table1, echo=FALSE}
+#baseline characteristics of the cleaned survey data
+variables <- c("**sex**", "Female", "Male", "**age**", "15 to 34 years", "35 to 54 years", "55 to 74 years","75 years and over", "**if_married**","Mean (SD)","Median [Min, Max]", "**likely_to_vote**","Don't know or not eligible", "somewhat likely", "somewhat unlikely", "very likely","very unlikely","**edu_level**","Bacholor's degree or higher	","Post-secondary dipolma","equal or lower than highschool", "**participate_volunteer**", "no","yes","**interest_politic**","not at all interested","not very interested","somewhat interested","very interested","**vote_liberal**","Mean (SD)","Median [Min, Max]","**vote_conservative**","Mean (SD)","Median [Min, Max]")
+
+value <- c("", "12734 (54.3%)", "10711 (45.7%)"," ","5129 (21.9%)","8258 (35.2%)","8968 (38.3%)","1090 (4.6%)"," ","0.472 (0.499)","0 [0, 1.00]"," ","1714 (7.3%)","3118 (13.3%)","726 (3.1%)","17541 (74.8%)","346 (1.5%)"," ","11293 (48.2%)","7727 (33.0%)","4425 (18.9%)"," ","10355 (44.2%)","	12228 (52.2%)"," ","383 (1.6%)","4287 (18.3%)","16384 (69.9%)","2391 (10.2%)"," ","0.271 (0.444)","0 [0, 1.00]"," ","	0.260 (0.439)","0 [0, 1.00]")
+table_1 <- data.frame(variables, value)
+kable(table_1, align = "c", format = "markdown", col.names = c(" ", "**Overall(N=23445)**"), caption = "baseline characteristics of the survey data")
+
+```
+Table\@ref(tab:table1) demonstrates the baseline chracteristics of the cleaned survey data from 2019CES, which hase the reduced amounts of variables. It shows the total 23445 observations of the data without the missing values. It shows the proportion of the each subcategory's observations among the total observation. For example, it presents that 13.3% of people pose that they are somewhat likley to vote for the 2019 election. This similar interpretations can apply to all the variable's subcategory.
+
+## Model Specifics
+
+The proportion of people voting for the Liberal Party and Conservative Parties in the 2019 Federal Election can be estimated using the Multiple Logistic Regression Model with Post-Stratification. The Multiple Logistic Regression Model is usually used in producing analysis of binary outcomes with many independent variables. Since the response variables for the analysis are `vot_liberal` and `vote_conservative`, which only have 0 and 1. Also, the variables that are chosen for the analysis are mainly independent categorical variables; therefore, the Multiple Logistic Regression Model is the primary choice. Since our sample size for the Multiple Logistic Regression Model is much larger than the number of variables, using the stepwise selection can make the model more generalized. And the stepwise backward has the advantage to consider all the variables at the same time that can keep more variables in the model as possible. Therefore, the final model is determined by using the Backward stepwise selection. This function starts with the model with full variables and then removes the least significant variables one at a time until the model reaches the specific threshold of 0.05 or 0.2 (n.d.). It provides the model in predicting the votes for Liberal with the lowest possible AIC value 25610. And the final model in predicting the votes for Conservative with the AIC value 24820.
+
+
+```{r, include = FALSE}
+#model selection (stepwise selection) to finalize the models
+model <-  glm(vote_liberal ~ sex + age + marital_status + likely_to_vote + edu_level + household_income + participate_volunteer +
+                interest_politic, data = survey_data2, family = "binomial")
+step(model, direction = "backward")
+
+model2 <- glm(vote_conservative ~ sex + age + marital_status + likely_to_vote + edu_level + household_income +
+                participate_volunteer + interest_politic, data = survey_data2, family = "binomial")
+step(model2, direction = "backward")
+```
+
+
+This is the model of predicting the votes for Liberal:
+$$
+log(\frac{p}{1-p}) = \beta_0 + \beta_1 X_{1age_{35-54}} + \beta_2 X_{2age_{55-74}} + \beta_3 X_{3age_{75+}} +  
+\beta_4 X_{4marr_{1}} + \beta_5 X_{5likely_{SL}}
+$$
+
+$$
+ + \beta_6 X_{6likely_{SU}} + \beta_7 X_{7likely_{VL}} + \beta_8 X_{8likely_{VU}}  + \beta_9 X_{9likely_{VL}} + + \beta_10 X_{10edu_{PSD}} +  \beta_11 X_{11edu_{H}} + \beta_12 X_{12politic_{NVI}} 
+$$
+$$
++ \beta_{13} X_{13politic_{SI}} + \beta_{14} X_{14politic_{VI}} + \beta_{15} X_{15volunteer_{na}} 
++ \beta_16 X_{16volunteer_{yes}} + \epsilon
+$$
+
+(see notation in Appendex A)
+
+This is the model of predicting the votes for Conservative:
+$$
+log(\frac{p}{1-p}) = \beta_0 + \beta_1 X_{sex_{Male}}  + \beta_2 X_{2age_{35-54}} + \beta_3 X_{3age_{55-74}} + \beta_4 X_{4age_{75+}} +  
+\beta_5 X_{5marr_{1}} + \beta_6 X_{6likely_{SL}}
+$$
+$$
+ + \beta_7 X_{7likely_{SU}} + \beta_8 X_{8likely_{VL}} + \beta_9 X_{9likely_{VU}} + \beta_10 X_{10edu_{PSD}}
+ +  \beta_11 X_{11edu_{H}} + \beta_12 X_{12politic_{NVI}} 
+$$
+
+$$
++ \beta_13 X_{13politic_{NVI}} + \beta_{14} X_{14politic_{SI}} + \beta_{15} X_{15politic_{VI}} + \beta_{16} X_{16volunteer_{na}} 
++ \beta_17 X_{17volunteer_{yes}} + \epsilon
+$$
+
+$log$ is the natural logarithm.
+$p$ is the proportion of people voting Liberal or Conservative Parties in 2019 Canadian Federal Election.
+$\frac{p}{1-p}$ as the "odd ratio" and $log(\frac{p}{1-p})$ is the log odds ratio
+$X_i$  represents the predictor variables in our model. e.g. $X_{1age_{35-54}}$ is the input variable of age between 35 to 54 years old, similarly to the rest $X_i$ in the equation. The $X_i$ here is the dummy variables that only takes value 0 or 1.
+$\beta_i$s (for i from 1 to 17/18) are the coefficients for each of the subcategories, which represent the average difference in the log of odds ratio between  $X_i = 1$ and $X_i = 0$ when having other variables constant. e.g. for the model of voting Conservative, $\beta_8$ represents the average difference in the log of odds ratio between married and not married people holding other variables constant.
+$\beta_0$is the constant term that represents the intercept at time zero; so, $\beta_0$ is the value of $logit(p)$ when having every $X_i = 0$.
+$\epsilon$ is the error term of the model.
+
+(Similar interpretation in Appendix A)
+
+## Post-Stratification 
+
+To provide a more accurate estimate of the probability of people voting Liberal and Conservative party., we will produce the analysis using the post-stratification method. Since the data is composed of variables that contain different subcategories and each subcategory has different sizes, we are partitioning them into different cells to provide rebalance later. The basic idea of post-stratification is to correct the imbalance between different strata(subcategory). So, by using a weighted average of the averages in each subcategory, we would have the rebalanced estimate of the population mean(Reilly, Gelman, Katz, C. n.d.). In our study, the census data has been cleaned and is ready for the use of post-stratification. In this case, we can use the above models to estimate the probability of people voting in the Liberal and Conservative Party based on each subcategory.
+Here is the mathematical calculation for the above procedures.
+
+$$
+\hat{y}^{PS} = \frac{\sum{N_j{\hat{y}_j}}}{\sum{N_j}}.
+$$
+For the above equation,
+$\hat{y}^{PS}$ can be defined as the proporion of voters voting for Liberal or the proporion of voters voting for Conservative with regarf to everyone would vote.
+$\hat{y}_j$ is the estimated probability in $j^{th}$ cell.
+$N_j$ is the population size in $j^{th}$ cells.
+$\sum{N_j}$ is the overall population.
+
+# Results
+
+```{r, table2, echo = FALSE}
+#Results(post-stractification) votes for liberal
+survey_model <- glm(vote_liberal ~ age + if_married + likely_to_vote + edu_level + interest_politic + participate_volunteer, data = new_survey, family = "binomial")
+
+census_data$logodds_estimate <- survey_model %>% predict(newdata = census_data)
+
+census_data$estimate <- exp(census_data$logodds_estimate)/(1+exp(census_data$logodds_estimate))
+
+post_strat_predict <- census_data %>%
+  mutate(alp_predict_prop = estimate*n) %>%
+  summarise(predict = sum(alp_predict_prop)/sum(n))
+kable(post_strat_predict, format = "markdown", digits = 3, align = "c", 
+      caption = "The Predicted Proportion of Voters for Liberal")
+```
+
+We estimate the proportion of people voting for Liberal Pary in the condition of everyone is voting with an equation of ${\hat{y}}^{PS} = \frac{\sum{N_j{\hat{y}_j}}}{\sum{N_j}}$ , is estimated to be **0.22**. It means that there are 22% of the people voting for the Liberal Paty. This prediction value is driven from the post-stratification analysis and the proportion of voters voting for the Liberal Party from a logistic regression model, `survey_model`, based on the variables `age`, `if_married`,`likely_to_vote`, `edu_level`, `interest_politic`,and `participate_volunteer`.
+
+
+```{r table3, echo = FALSE}
+#Results(post-stractification) votes for liberal
+survey_model2 <- glm(vote_conservative ~ sex + age + if_married + likely_to_vote + edu_level + interest_politic + participate_volunteer, data = new_survey, family = "binomial")
+
+census_data$logodds_estimate <- survey_model2 %>% predict(newdata = census_data)
+
+census_data$estimate <- exp(census_data$logodds_estimate)/(1+exp(census_data$logodds_estimate))
+
+post_strat_predict2 <- census_data %>%
+  mutate(alp_predict_prop = estimate*n) %>%
+  summarise(predict = sum(alp_predict_prop)/sum(n))
+kable(post_strat_predict2, format = "markdown", digits = 3, align = "c", 
+      caption = "The Predicted Proportion of Voters for consservative")
+```
+
+We predict the proportion of people voting for Conservative Pary in the condition of everyone is voting with an equation of ${\hat{y}}^{PS} = \frac{\sum{N_j{\hat{y}_j}}}{\sum{N_j}}$, is estimated to be **0.264**. It means that there are 26.4% of the people voting for the Conservative Paty. This estimate is driven from the post-stratification analysis and the proportion of voters voting for the Conservative Party from a logistic regression model, `survey_model2`. And the model is based on the variables `sex`, `age`, `if_married`,`likely_to_vote`, `edu_level`, `interest_politic`,and `participate_volunteer`.
+
+```{r table4, echo=FALSE}
+#summary of AIC Score fore two models
+aic_summary <- data.frame(Model_Name = c("model for voting liberal", "model for voting conservative"), 
+            AIC = c(25610, 24820))
+kable(aic_summary, align = "c", format = "markdown", col.names = c("Model Name", "AIC"),
+      caption = "AIC Score of final Models")
+```
+
+By using the stepwise selection from part I, we can obtain the the final models `survey_model` and `survey_model2` with the lowest possible AIC values, which are 25610 and 24820 respectively.
+
+```{r table5, echo=FALSE}
+#summary table of the logistic model for voting liberal
+kable(broom::tidy(survey_model), align = "c", format = "markdown", digits = 3,
+      col.names = c("Term", "Estimate", "Standard Error", "Test Statistic", "P-Value"),
+      caption = "Summary table for the Survey Logistic Regression Model of voting Liberal")
+```
+
+
+```{r table6, echo=FALSE}
+#summary table of the logistic model for voting conservative
+kable(broom::tidy(survey_model2), align = "c", format = "markdown", digits = 3,
+      col.names = c("Term", "Estimate", "Standard Error", "Test Statistic", "P-Value"),
+      caption = "Summary table for the Survey Logistic Regression Model of voting Conservative")
+```
+
+Because `survey_model` and `survey_model2` are two models that predicting the proportion of poppular vote for the Liberal and Conservative Parties, we can do summary tables that form the estimated value for $\beta_i$.In Table\@ref(tab:table5) and Table\@ref(tab:table6), we have the estimate values for each input and also estimated value for $\hat{\beta_0}$, which these values are shown in the fitted logistic regression models below.
+
+$$
+log(\frac{p}{1-p}) = -17.96023  +  0.03134 X_{1age_{35-54}} + 0.09236 X_{2age_{55-74}} + 0.14957 X_{3age_{75+}} 
+- 0.02625 X_{4marr_{1}} + 16.76414 X_{5likely_{SL}}
+$$
+
+$$
+ + 16.51438 X_{6likely_{SU}} +  16.73371 X_{7likely_{VL}} +  0.35580 X_{8likely_{VU}} -0.42751 X_{10edu_{PSD}}
+ -0.55589  X_{11edu_{H}} + 0.35277 X_{12politic_{NVI}} 
+$$
+
+$$
++ 0.72852 X_{13politic_{SI}} + 0.78568  X_{13politic_{VI}} - 0.18115 X_{15volunteer_{na}} 
+-0.19057 X_{16volunteer_{yes}} + \epsilon
+$$
+
+`survey_model`is the model that are finally selected in predicting the proportion of people voting for the Liberal Pary in 2019 Canadian Federal Election. Based on the summary table for the model, we can determine the estimated values of the intercept, $\hat{\beta_0}$ and estimated slopes $\hat{\beta_i}$ (for i = 1 to 16). Therefore, the above is the fitted logistic regression for voting Liberal.
+
+
+$$
+log(\frac{p}{1-p}) = -18.70489  + 0.38948 X_{sex_{Male}} + 0.10394 X_{2age_{35-54}} +  0.09181X_{3age_{55-74}} +  0.30885 X_{4age_{75+}} +  0.52315 X_{5marr_{1}} 
+$$
+
+$$
+ + 16.48228 X_{6likely_{SL}} + 16.38572 X_{7likely_{SU}} +  16.67933 X_{8likely_{VL}} + 0.12037 X_{9likely_{VU}} + 0.38277 X_{10edu_{PSD}} +0.47766 X_{11edu_{H}}
+$$
+
+$$
+ + 0.1 X_{12politic_{NVI}} +  0.29828 X_{13politic_{SI}} + 0.44613 X_{14politic_{VI}} + 0.06968 X_{15volunteer_{na}} +  0.19041  X_{16volunteer_{yes}} + \epsilon
+$$
+`survey_model2` is the model that are finally selected in predicting the proportion of people voting for the COnservative Pary in 2019 Canadian Federal Election. Based on the summary table for the model, we can determine the estimated values of the intercept, $\hat{\beta_0}$ and estimated slopes $\hat{\beta_i}$ (for i = 1 to 17). Therefore, the above is the fitted logistic regression for voting Conservative.
+
+&nbsp;
+
+```{r fig1, fig.cap="Relationship between vote choice and number of voters by age, ehucation level", echo=FALSE}
+#comparing two paries' bar plot(histogram) for the vote choice grouping by subcategories of the variables 
+hist_age <- ggplot(new_survey, aes(as.character(vote_liberal), fill = age)) + geom_bar(stat = "count") +
+  theme_bw() + labs(x = "Vote for liberal or not", y = "Number of People", fill = "age")
+
+hist_age_con <- ggplot(new_survey, aes(as.character(vote_conservative), fill = age)) + geom_bar(stat = "count") + theme_bw() + labs(x = "Vote for conservative or not", y = "Number of People", fill = "age")
+
+hist_edu <- ggplot(new_survey, aes(as.character(vote_liberal), fill = edu_level)) + geom_bar(stat = "count") +
+  theme_bw() + labs(x = "Vote for liberal or not", y = "Number of People", fill = "education level") + theme(legend.text = element_text(size=5))
+
+hist_edu_con <- ggplot(new_survey, aes(as.character(vote_conservative), fill = edu_level)) + geom_bar(stat = "count") + theme_bw() + labs(x = "Vote for liberal or not", y = "Number of People", fill = "education level") + theme(legend.text = element_text(size=5))
+
+grid.arrange(hist_age, hist_age_con , hist_edu, hist_edu_con, nrow = 2, newpage = FALSE)
+```
+
+
+```{r fig2, fig.cap = "Relationship between vote choice and number of voters by interest_politic, liklihood to vote", echo=FALSE}
+#comparing two paries' bar plot(histogram) for the vote choice grouping by subcategories of the variables
+hist_poli <- ggplot(new_survey, aes(as.character(vote_liberal), fill = interest_politic )) + geom_bar(stat = "count") +
+  theme_bw() + labs(x = "Vote for liberal or not", y = "Number of People", fill = "interest in politic" )
+
+hist_poli_con <- ggplot(new_survey, aes(as.character(vote_conservative), fill = interest_politic )) + geom_bar(stat = "count") +
+  theme_bw() + labs(x = "Vote for conservative or not", y = "Number of People", fill = "interest in politic")
+
+hist_likely <- ggplot(new_survey, aes(as.character(vote_liberal), fill = likely_to_vote)) + geom_bar(stat = "count") + theme_bw() + labs(x = "Vote for liberal or not", y = "Number of People", fill = " how likely to vote")
+
+hist_likely_con <- ggplot(new_survey, aes(as.character(vote_conservative), fill = likely_to_vote)) + geom_bar(stat = "count") + theme_bw() + labs(x = "Vote for conservative or not", y = "Number of People", fill = "how likely to vote")
+
+grid.arrange(hist_poli, hist_poli_con, hist_likely, hist_likely_con, nrow = 2, newpage = FALSE)
+```
+
+
+In Figure\@ref(fig:fig1), four bar plots above illustrate the relationships between the voters' choice  and number of voters in the 2019 federal Election, grouped by the independent variables in the logistic `age` and `edu_level`. Each variable are shown in two bar plots, one is for voting to Liberal and one is for voting to Conservative.
+
+In Figure\@ref(fig:fig2), four bar plots above illustrate the relationships between the voters' choice  and number of voters in the 2019 federal Election, grouped by the independent variables in the logistic `interest_politic` and `Likely_to_vote`. Each variable are shown in two bar plots, one is for voting to Liberal and one is for voting to Conservative.
+
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+# Discussion
+
+## Summary and Conclusion
+The objective of this report is to demonstrate the outcome of the popular vote between Liberal and Conservative Parties for the 2019 Canadian Federal Election if having the condition that everyone would vote. The dataset we used is survey and census data. The survey data retrieved from 2019 CES is used for doing a multilevel logistic model. And the census data is from the GSS2013 is used for post-stratification. Since the study is assuming everyone would vote, we would combine another variable `unlikley_vote` that collect vote choice from those who are unlikely to vote. This is because they do not have the vote choice in ‘votechoice’ previously, we now should also be included in `vote_liberal` or `vot_conservative` if any of them is voting for them. By using the stepwise backward method, the variables in ultimate models for both parties are finalized as well as their logistic regression model. Then, the prediction on the popular vote for both parties, with the condition of everyone is voting, can be done by apply post-stratification.
+
+According to the outcome of our study, there are 22% of the people voting for Liberal and 26% of the people voting for Conservative, considering that everyone is voting. Based on the outcome, we can see that none of the parties holds the large majority of voters that could form the majority government directly. This is consistent with the fact that the Liberal party ends up holding minority government in the 2019 Canadian Federal election. Also, the result presents that the Conservative Party has more popular vote than the Liberal Party, which matches with the actual results of the 2019 Canadian Federal election. Therefore, even with assuming everyone would vote, the predicted outcome has no difference from the actual outcome in the 2019 Canadian Federal election. This can relates Figure\@ref(fig:fig2) and Table\@ref(tab:table1) that we can see a small portion of people that is somewhat unlikely to vote. So, as we consider them into the proportion of them voting for Liberal or Conservative, there is no surprising change to the result when having those people’s votes of the two major parties. Besides, for Figure\@ref(fig:fig1) and Figure\@ref(fig:fig2), we are also interested in looking at the proportion of votes for both parties concerning the subcategories of some variables from the models. And there is no major difference in the proportion of the votes between two parties when we compare them with the same variables.
+
+Overall, the actual voters’ turnout for the 2019 Canadian Federal Election was 66%, which is slightly lower than the turnout in 2015 (Stright News). However, the outcome for the study stays consistent with the actual outcome in 2019, in which the predicted proportion of people voting Conservative is slightly higher than the proportion of people voting Liberal. This can be due to the fact of the proportion of people that are unlikely to vote occupies a small proportion of eligible votes. If that is the case, the survey data that we use for the study is pretty representative of the population.
+
+## Weakness
+There are many limitations to using the logistic regression model. Logistic regression has the assumption of having a linear association between the dependent variables and the independent variables(GeeksForGeeks 2020). Therefore, it presents the restriction if we have a non-linear relationship between the variables. Besides, before we do the logistic regression model, we would require carrying out the variable selections. This process will require the identification of potential variables (Torsten, H. & Jürgen, D. 2013) So, logistic regression doesn’t have a strict role in determining the best model. Since the method that we use to finalize the variables is stepwise regression, there is no guarantee of selecting the best variables, especially with a small dataset. In the study, we do not provide a linearity check for the variables. But since all the variables for the model are categorial, there should not have a large issue with the linearity problem. Also, the sample size of the model is large; therefore, it should decrease the instability of using stepwise regression(Choueiry G.). But it does not mean to guarantee the best model. On the other hand, since we aim to select the variables that can be matched in both datasets. Therefore, some potential variables can be missed in our model. 
+
+## Next Step
+After discussing some limitations and weaknesses of our model, there exists some problems that we can improve. If we are predicting a similar study in the future, it is important to check the linearity of variables, which we can make scatterplots to check the patterns. Besides, since we are only dealing with few predicting variables from both datasets and the census dataset is collected from 2013 GSS, it might not be representative enough to the analysis dealing with the 2019 election. Since the limited number of variables, we can use, the prediction of the election might be inefficient. Therefore, the improvements can be having a more updated census dataset that contains more variables regarding sociology, economics, and political issues. In this case, we would have more variables that could affect the election results.  
+
+
+# Reference
+
+## Survey Data and Census Data(2013GSS and 2019CES)
+
+General Social Survey, cycle 27, 2013 (version 2): Social Identity.Retreived from
+
+&nbsp;&nbsp; https://sda-artsci-utoronto-ca.myaccess.library.utoronto.ca/cgi-bin/sda/hsda?harcsda4+gss27v2
+
+Stephenson, Laura B., Allison Harell, Daniel Rubenson and Peter John Loewen. 
+
+&nbsp;&nbsp; The 2019 Canadian Election Study – Online Collection. [dataset]
+
+## Other referneces
+Dunham, B. (2019, October 22). Conservatives win popular vote but lose election. Retrieved from &nbsp;&nbsp;
+
+https://election.ctvnews.ca/conservatives-win-popular-vote-but-lose-election-1.4649651
+
+Lauderdale, B., Bailey, D., Blumenau, J., &amp; Rivers, D. (2019, October 15). Model-based pre-election
+
+&nbsp;&nbsp;  polling for national and sub-national outcomes in the US and UK. Retrieved December 22, 2020, from
+
+&nbsp;&nbsp; https://www.sciencedirect.com/science/article/pii/S016920701930189X?casa_token=wXkw-NnFllYAAAAA%3AkCS95QZqU6b3lfudLl7I1fLaUFjYEcgwObDUYCok6woovSIRmQM7D8N3Ic2d29WYkF-kERR1fva7
+
+Understand Forward and Backward Stepwise Regression. (n.d.). Retrieved from 
+
+&nbsp;&nbsp; https://quantifyinghealth.com/stepwise-selection/
+
+Reilly, Gelman, Katz, C. (n.d.). Poststrati cation Without Population Level Information on the 
+
+&nbsp;&nbsp; Poststratifying Variable, With Application to Political Polling. Retrieved from 
+
+&nbsp;&nbsp; https://stat.columbia.edu/~gelman/research/published/aprvlRv1.pdf
+
+Voter turnout for Canada's 2019 federal election was, well, meh. (2019, October 23). Retrieved from, 
+
+&nbsp;&nbsp; https://www.straight.com/news/1316836/voter-turnout-canadas-2019-federal-election-was-well-meh
+
+Torsten Heyer & Jürgen Stamm (2013) Levee reliability analysis using logistic regression models – abilities,
+
+&nbsp;&nbsp; limitations and practical considerations, Georisk: Assessment and Management of Risk for Engineered
+
+&nbsp;&nbsp; Systems and Geohazards, 7:2, 77-87, DOI: 10.1080/17499518.2013.790734
+
+GeeksForGeeks (2020, September 02). Advantages and Disadvantages of Logistic Regression.
+
+&nbsp;&nbsp;  Retrieved from, https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/
+
+Choueiry George (n.d) Understand Forward and Backward Stepwise Regression. Retrieved from,
+
+&nbsp;&nbsp; https://quantifyinghealth.com/stepwise-selection/
+
+Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
+
+&nbsp;&nbsp; https://doi.org/10.21105/joss.01686
+
+Xie,Y (2020). knitr: A General-Purpose Package for Dynamic Report Generation in R. 
+
+&nbsp;&nbsp; R package version 1.30.
+
+Xie,Y. (2014) knitr: A Comprehensive Tool for Reproducible Research in R. In Victoria Stodden, Friedrich
+
+&nbsp;&nbsp; Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research.
+
+&nbsp;&nbsp; Chapman and Hall/CRC. ISBN 978-1466561595
+
+Xie,Y. (2015) Dynamic Documents with R and knitr. 2nd edition. Chapman and Hall/CRC.
+
+&nbsp;&nbsp; ISBN 978-1498716963
+
+Wickham,H. (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
+
+&nbsp;&nbsp; https://doi.org/10.21105/joss.01686
+
+Wickham,H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.
+
+Auguie,B (2017). gridExtra: Miscellaneous Functions for "Grid" Graphics. R package version 2.3.
+
+&nbsp;&nbsp; https://CRAN.R-project.org/package=gridExtra
+
+
+# Appendix
+
+## Appendix A
+
+$log(\frac{p}{1-p})$ is the log odd ratio we estimate the log odd proportion of people voting the Liberal Party.
+
+$X_{sex_{Male}}$ is 1 if the input variable of Male and 0 otherwise.
+
+$X_{2age_{35-54}}$ is 1 if the input variable of age between 35 to 54 years old and 0 otherwise.
+
+$X_{3age_{55-74}}$ is 1 if the input variable of age between 55 to 74 years old and 0 otherwise.
+
+$X_{4age_{75+}}$ is 1 if the input variable of age equal or over 75 years old and 0 otherwise.
+
+$X_{5marr_{1}}$ is 1 if the input variable is married with the value 1 and 0 otherwise.
+
+$X_{6likely_{SL}}$ is 1 if the input variable `likely_to_vote` is somewhat likely and 0 otherwise. 
+
+$X_{7likely_{SU}}$ is 1 if the input variable `likely_to_vote` is somewhat unlikely and 0 otherwise. 
+
+$X_{8likely_{VL}}$ is 1 if the input variable `likely_to_vote` is very likely and 0 otherwise. 
+
+$X_{9likely_{VU}}$ is 1 if the input variable `likely_to_vote` is very unlikely and 0 otherwise.
+
+$X_{10edu_{PSD}}$ is 1 if the input variable `edu_level` is Post-secondary diploma and 0 otherwise.
+
+$X_{11edu_{H}}$ is 1 if the input variable `edu_level` is equal or lower than high school and 0 otherwise.
+
+$X_{12politic_{NVI}}$ is 1 if the input variable `interest_politic ` is not very interested and 0 otherwise.
+
+$X_{13politic_{SI}}$ is 1 if the input variable `interest_politic ` is somewhat interested and 0 otherwise.
+
+$X_{14politic_{VI}}$ is 1 if the input variable `interest_politic ` is very interested and 0 otherwise.
+
+$X_{15volunteer_{na}}$ if the input variable ` participate_volunteer ` is not anser and 0 otherwise.
+
+$X_{16volunteer_{yes}}$ if the input variable ` participate_volunteer ` is yes and 0 otherwise.
+
+$\beta_i$s represent the average difference in the log of odds ratio $X_i = 0$ and $X_i = 1$ when having other variables constant, where $X_i$ matches above.
+
+$\beta_0$is the constant term that represents the intercept at time zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
